@@ -1,12 +1,14 @@
-"""Build stores.json: restructure schema + translate Hebrew descriptions.
+"""Build stores.json with nested schema + English translations + city parsing.
 
-Reads the source index, translates each Hebrew description into English,
-French, and Russian (via Google Translate through deep-translator), and
-emits a record per store populated with the full schema. All enrichment
-fields default to null / [] and are expected to be filled over time.
+Reads the source index (Hebrew descriptions), translates each to English
+via Google Translate (deep-translator), parses city from the description
+where possible, and emits one record per store under a partial-wrap
+nested structure: `name` and `website` stay at the top level for easy
+scanning; everything else lives under `store_details`.
 """
 
 import json
+import re
 import sys
 import time
 from pathlib import Path
@@ -16,74 +18,159 @@ SOURCE = Path("/home/daniel/repos/github/my-repos/israeli-store-scraper/israeli-
 OUT = Path(__file__).parent / "stores.json"
 DATE_ADDED = "2026-04-20"
 
-BOOLEAN_NULL_FIELDS = [
-    "tier", "chain", "offers_same_day",
-    "delivers_jerusalem", "delivers_telaviv", "delivers_eilat", "eilat_door",
-    "has_mcp", "has_api",
-    "prices_ex_vat", "prices_non_ils",
-    "trade_only",
-    "authorised_gov_supplier", "authorised_min_comms", "authorised_min_defence",
-    "online_only", "has_bricks_mortar",
-    "wa_support",
-    "accepts_bit", "accepts_paypal", "accepts_crypto",
-    "official_importer",
-]
-STRING_NULL_FIELDS = [
-    "email", "zap_url", "instagram_url", "fb_url",
-    "example_search_url", "search_syntax",
-    "wa_number", "business_hours",
-    "personal_desc", "my_notes_he", "my_notes_en",
-    "status",
-    "warranty_policy", "return_policy", "sale_tos_link", "testimonials_url",
-]
-NUMERIC_NULL_FIELDS = ["year_founded", "store_number_approx", "store_number_exact"]
-ARRAY_FIELDS = ["delivery_options", "categories", "official_importer_brand", "brands"]
+NATIONWIDE_MARKERS_HE = ["פריסה ארצית", "ארצי", "כל הארץ"]
+NATIONWIDE_MARKERS_EN = ["nationwide", "all over the country", "throughout the country", "countrywide"]
 
 
 def translate_batch(texts, target, chunk=50):
-    """Translate list of Hebrew strings into target lang, chunked."""
     tr = GoogleTranslator(source="iw", target=target)
     out = []
     for i in range(0, len(texts), chunk):
         batch = texts[i:i + chunk]
-        # translate_batch returns list aligned with input
         for attempt in range(3):
             try:
-                result = tr.translate_batch(batch)
-                out.extend(result)
+                out.extend(tr.translate_batch(batch))
                 break
             except Exception as e:
                 print(f"  retry {attempt + 1} ({target}) chunk {i}: {e}", file=sys.stderr)
                 time.sleep(2 ** attempt)
         else:
-            # final fallback: empty strings so indexing stays aligned
             out.extend(["" for _ in batch])
         print(f"  {target}: {min(i + chunk, len(texts))}/{len(texts)}", file=sys.stderr)
         time.sleep(0.3)
     return out
 
 
+def parse_last_segment(text):
+    if not text:
+        return None
+    parts = [p.strip() for p in re.split(r"[.\n]", text) if p.strip()]
+    if len(parts) < 2:
+        return None
+    return parts[-1]
+
+
+def is_nationwide(he, en):
+    he_l = (he or "")
+    en_l = (en or "").lower()
+    return any(m in he_l for m in NATIONWIDE_MARKERS_HE) or any(m in en_l for m in NATIONWIDE_MARKERS_EN)
+
+
+def extract_branches(he, en):
+    """Return (branches_list, inferred_is_chain)."""
+    if is_nationwide(he, en):
+        return [], True
+    city_he = parse_last_segment(he)
+    city_en = parse_last_segment(en)
+    if not city_he and not city_en:
+        return [], None
+    return [{"city_he": city_he, "city_en": city_en, "address": None}], None
+
+
+def build_record(name, website, desc_he, desc_en):
+    branches, inferred_chain = extract_branches(desc_he, desc_en)
+    return {
+        "name": name,
+        "website": website,
+        "store_details": {
+            "date_added": DATE_ADDED,
+            "status": None,
+            "year_founded": None,
+            "tier": None,
+            "descriptions": {
+                "he": desc_he,
+                "en": desc_en,
+                "personal": None,
+                "notes_he": None,
+                "notes_en": None,
+            },
+            "contact": {
+                "email": None,
+                "wa_support": None,
+                "wa_number": None,
+                "instagram_url": None,
+                "fb_url": None,
+                "zap_url": None,
+            },
+            "locations": {
+                "branches": branches,
+                "online_only": None,
+                "has_bricks_mortar": None,
+                "eilat_door": None,
+                "business_hours": None,
+                "delivers": {
+                    "jerusalem": None,
+                    "tel_aviv": None,
+                    "eilat": None,
+                },
+            },
+            "chain": {
+                "is_chain": inferred_chain,
+                "store_number_approx": None,
+                "store_number_exact": None,
+            },
+            "commerce": {
+                "prices_ex_vat": None,
+                "prices_non_ils": None,
+                "trade_only": None,
+                "accepts": {
+                    "bit": None,
+                    "paypal": None,
+                    "crypto": None,
+                },
+            },
+            "delivery": {
+                "store_collection": None,
+                "courier_delivery": None,
+                "israel_post_delivery": None,
+                "delivery_point_delivery": None,
+                "same_day_delivery": None,
+                "next_day_delivery": None,
+                "ships_abroad": None,
+            },
+            "categorisation": {
+                "categories": [],
+                "brands": [],
+                "official_importer": None,
+                "official_importer_brand": [],
+            },
+            "policies": {
+                "warranty": None,
+                "return": None,
+                "sale_tos_link": None,
+                "testimonials_url": None,
+            },
+            "authorisations": {
+                "gov_supplier": None,
+                "min_comms": None,
+                "min_defence": None,
+            },
+            "agent_integration": {
+                "example_search_url": None,
+                "search_syntax": None,
+                "has_mcp": None,
+                "has_api": None,
+            },
+        },
+    }
+
+
 def main():
     src = json.loads(SOURCE.read_text(encoding="utf-8"))
     descriptions = [r.get("description", "") or "" for r in src]
 
-    print(f"Translating {len(descriptions)} descriptions...", file=sys.stderr)
+    print(f"Translating {len(descriptions)} descriptions to English...", file=sys.stderr)
     en = translate_batch(descriptions, "en")
 
-    records = []
-    for i, r in enumerate(src):
-        rec = {
-            "name": r.get("name", ""),
-            "website": r.get("website", ""),
-            "description_he": r.get("description", "") or "",
-            "description_en": en[i] if i < len(en) else "",
-            "date_added": DATE_ADDED,
-        }
-        for f in BOOLEAN_NULL_FIELDS + STRING_NULL_FIELDS + NUMERIC_NULL_FIELDS:
-            rec[f] = None
-        for f in ARRAY_FIELDS:
-            rec[f] = []
-        records.append(rec)
+    records = [
+        build_record(
+            name=r.get("name", ""),
+            website=r.get("website", ""),
+            desc_he=descriptions[i],
+            desc_en=en[i] if i < len(en) else "",
+        )
+        for i, r in enumerate(src)
+    ]
 
     OUT.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {len(records)} records → {OUT}", file=sys.stderr)

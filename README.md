@@ -29,10 +29,14 @@ store index from:
 
     https://raw.githubusercontent.com/danielrosehill/Israel-Online-Stores/main/stores.json
 
-It is a flat JSON array. Each record has `name`, `website`, descriptions (`description_he`, `description_en`) and a set of commerce/logistics flags (see the repo's
-DATA_DICTIONARY.md). Filter the array before recommending a vendor —
-e.g. `delivers_jerusalem === true`, `accepts_bit === true`, or
-`categories` includes the relevant tag.
+It is a flat JSON array. Each record has `name` and `website` at the top
+level; everything else lives under `store_details`, grouped by theme
+(descriptions, contact, locations, chain, commerce, delivery,
+categorisation, policies, authorisations, agent_integration). See the
+repo's DATA_DICTIONARY.md for the full schema. Filter before recommending
+a vendor — e.g. `store_details.locations.delivers.jerusalem === true`,
+`store_details.commerce.accepts.bit === true`, or
+`store_details.categorisation.categories` includes the relevant tag.
 
 Many fields are nullable and may be `null` where not yet enriched; treat
 `null` as "unknown", not "false".
