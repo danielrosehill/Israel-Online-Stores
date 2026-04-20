@@ -1,0 +1,7472 @@
+[
+  {
+    "name": "18Comp",
+    "description": "מחשבים וציוד היקפי. יוקנעם עילית",
+    "website": "https://18comp.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "1PC",
+    "description": "מחשבים, סלולר וציוד היקפי. פריסה ארצית",
+    "website": "https://1pc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "2buyspares",
+    "description": "חלקי חילוף למכשירי חשמל. ראשון לציון",
+    "website": "https://www.2buyspares.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "2Click",
+    "description": "מוצרי צילום וציוד היקפי. חולון",
+    "website": "https://www.2click.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "2MyDog",
+    "description": "מזון ואביזרים לחיות מחמד. גן יבנה",
+    "website": "http://www.2mydog.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "2Pic",
+    "description": "צילום ואביזרים. אילת",
+    "website": "http://2pic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "2SurpriseU",
+    "description": "מבחר מתנות. צור יגאל",
+    "website": "http://www.2surpriseu.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "3D-Design",
+    "description": "שיווק ערכות רובוט והדפסה תלת מימד. חדרה",
+    "website": "https://www.3d-design.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "3In100",
+    "description": "אקססוריז למכשירי סלולאר. הוד השרון",
+    "website": "https://www.3in100.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "4Com",
+    "description": "ציוד מחשוב, תקשורת ואביזרי מחשוב. פתח תקווה",
+    "website": "https://www.4com.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "938",
+    "description": "מחשבים. ראש העין",
+    "website": "https://938.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "A101",
+    "description": "ציוד ומכשור רפואי. אלעד",
+    "website": "https://www.a101.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AABike",
+    "description": "אופניים ואביזרים. נהריה",
+    "website": "https://www.aabike.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Abagan",
+    "description": "מוצרים לגינה. ירושלים",
+    "website": "https://www.abagan.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AbirSport",
+    "description": "מכשירי ספורט. תל אביב",
+    "website": "http://www.abirsport.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Aboody",
+    "description": "מוצרי עישון. תל אביב",
+    "website": "https://aboody.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ABShop",
+    "description": "קניון וירטואלי. בן שמן",
+    "website": "http://www.abshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ACDC",
+    "description": "מוצרי חשמל קטנים לבית. חולון",
+    "website": "https://www.acdc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "adira",
+    "description": "מוצרים לבית ולגן. נתניה",
+    "website": "http://www.adir-a.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AdsComp",
+    "description": "חנות מחשבים וציוד היקפי. ירושלים",
+    "website": "https://adscomp.co.il/he/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Agalulim",
+    "description": "עגלולים לתינוק. מושב פורת",
+    "website": "http://agalulim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Air4U",
+    "description": "מזגנים. מושב מצליח",
+    "website": "http://www.air4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AirKor",
+    "description": "מזגנים. באר יעקב",
+    "website": "https://airkor.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AIsraeli",
+    "description": "עיצוב הבית. פריסה ארצית",
+    "website": "https://www.aisraeli.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Aknin",
+    "description": "חומרי בניין,אספקה טכנית ומגוון פתרונות לבית ולעסק. טבריה",
+    "website": "https://www.aknin.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AkolboPro",
+    "description": "כלי עבודה ואספקה טכנית. פתח תקווה",
+    "website": "https://www.akolbopro.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "All4Home",
+    "description": "מוצרי חשמל לבית. פתח תקווה",
+    "website": "http://all4home.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "All4Pet",
+    "description": "מזון וציוד לחיות מחמד. פריסה ארצית",
+    "website": "http://www.all4pet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AllKarcher",
+    "description": "מכונות שטיפה וציוד ניקיון. תל אביב",
+    "website": "http://www.allkarcher.com",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AllStar",
+    "description": "אביזרים לרכב. ראשון לציון",
+    "website": "http://www.allstar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AllTech",
+    "description": "משחקי מדע וטבע ומתנות ייחודיות. פתח תקווה",
+    "website": "http://www.alltech.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AlPesek",
+    "description": "מערכות אל פסק. נתניה",
+    "website": "http://www.alpesek.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Alter",
+    "description": "תיקים ומזוודות. תל אביב",
+    "website": "http://www.alter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Aluf-Haselolar",
+    "description": "מכירת ותיקון מכשירי סלולר. רמלה",
+    "website": "https://alufhacellular.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Am-Avi",
+    "description": "מיזוג אויר אוורר וטיהור אויר. חולון",
+    "website": "http://www.amavi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "A-Mazber",
+    "description": "מצברים. חיפה",
+    "website": "http://www.a-mazber.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Amigo",
+    "description": "צעצועים ומשחקים. אשדוד",
+    "website": "https://www.amigo.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Amital-LTD",
+    "description": "כלי עבודה, כלי גינון, ציוד ניקיון. ראש העין",
+    "website": "http://www.amital-ltd.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AmovilTiers",
+    "description": "צמיגים לרכב. פתח תקווה",
+    "website": "https://amoviltiers.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AMTools",
+    "description": "כלי עבודה וגינון. פרדס חנה",
+    "website": "https://www.amtools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AnakElectric",
+    "description": "מוצרי חשמל. ראשון לציון",
+    "website": "https://www.anakelectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AnimaLove",
+    "description": "מזון וציוד לבעלי חיים. כפר סבא",
+    "website": "https://www.animalove.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AquaLink",
+    "description": "מערכות טיהור מים מתקדמות כחול לבן. טירת הכרמל",
+    "website": "http://www.aqualink.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AquaTech",
+    "description": "מערכות טיהור מים. יד רמב\"ם",
+    "website": "https://www.aquatech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AquaView",
+    "description": "מוצרי ספורט טיולים ונופש. באר שבע",
+    "website": "https://www.aquaview.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Arcadia",
+    "description": "חנות גיימינג. פריסה ארצית",
+    "website": "https://www.arcadia.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Arizol",
+    "description": "אריזות למתנות ואירועים. תל אביב",
+    "website": "https://www.arizol.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AromaHome",
+    "description": "מפיצי ריח ונרות. ג'וליס",
+    "website": "https://www.aromahomeonline.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "arosport",
+    "description": "ספורט ואביזרים. ראשון לציון",
+    "website": "http://www.aqualink.co.il/https://www.aquatech.co.il/https://www.aquaview.co.il/https://www.arcadia.co.il/https://www.arizol.co.il/https://www.aromahomeonline.co.ilhttps://asatools.co.il/https://aselectric.zapweb.co.il/https://a-s-t.co.il/http://www.ataralbums.com/https://www.athletis.co.ilhttps://www.atlastools.co.il/https://www.atlasts.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AsaTools",
+    "description": "כלי עבודה וחומרי בניין. ירושלים",
+    "website": "https://asatools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ASElectric",
+    "description": "מערכות קולנוע ביתי. חדרה",
+    "website": "https://aselectric.zapweb.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "A-S-T",
+    "description": "מדפסות,פלוטרים,סורקים ומתכלים. רחובות",
+    "website": "https://a-s-t.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AtarAlbums",
+    "description": "צילום ואלבומים. חולון",
+    "website": "http://www.ataralbums.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Athletis",
+    "description": "ספורט ואקססוריז. טירת הכרמל",
+    "website": "https://www.athletis.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AtlasTools",
+    "description": "כלי עבודה וציוד טכני. רמת גן",
+    "website": "https://www.atlastools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AtlasTS",
+    "description": "כלי עבודה. ירושלים",
+    "website": "https://www.atlasts.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AtomicOnline",
+    "description": "מחשבים וציוד היקפי. פתח תקווה",
+    "website": "https://audioclub.co.il/http://www.audiotech.co.il/http://www.audiovideo.co.ilhttps://www.avc.co.il/https://avivs.co.il/https://www.azuri.co.il/https://baypo.co.il/https://www.babyshome.co.il/http://www.babystav.co.ilhttps://babystuff.co.il/https://bagstore.co.il/https://www.balila.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AudioClub",
+    "description": "מוצרי אודיו לבית. תל אביב",
+    "website": "https://audioclub.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AudioTech",
+    "description": "אודיו וידאו גאג'טים ציוד משרדי. חולון",
+    "website": "http://www.audiotech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AudioVideo",
+    "description": "יבוא ושיווק ציוד לאולפני מוזיקה. בארותיים",
+    "website": "http://www.audiovideo.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AVC",
+    "description": "התקנה ומכירה מערכות אודיו וידאו. רמת גן",
+    "website": "https://www.avc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "AvivS",
+    "description": "שעוני אופנה. חולון",
+    "website": "https://avivs.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Azuri",
+    "description": "חשמל ואלקטרוניקה. קרית אונו",
+    "website": "https://www.azuri.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Babayoff",
+    "description": "מחשבים וציוד תקשורת. תל אביב",
+    "website": "https://baypo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BabyFun",
+    "description": "מוצרי תינוקות. הוד השרון",
+    "website": "https://audioclub.co.il/http://www.audiotech.co.il/http://www.audiovideo.co.ilhttps://www.avc.co.il/https://avivs.co.il/https://www.azuri.co.il/https://baypo.co.il/https://www.babyshome.co.il/http://www.babystav.co.ilhttps://babystuff.co.il/https://bagstore.co.il/https://www.balila.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BabysHome",
+    "description": "מוצרי תינוקות וצעצועים. בת ים",
+    "website": "https://www.babyshome.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BabyStav",
+    "description": "מוצרי תינוקות. נתניה",
+    "website": "http://www.babystav.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BabyStuff",
+    "description": "מוצרי תינוקות. נתניה",
+    "website": "https://babystuff.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BagStore",
+    "description": "תיקים, מזוודות ואביזרי אופנה. כוכב יאיר",
+    "website": "https://bagstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Balila",
+    "description": "מיגון ומולטימדיה לרכב. חיפה",
+    "website": "https://www.balila.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BananaShops",
+    "description": "רהיטים בהתאמה אישית. קיבוץ משמרות",
+    "website": "https://www.bananashops.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Barcom",
+    "description": "מוצרי תקשורת בלוטוס. קרית עקרון",
+    "website": "http://www.barcom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bargad",
+    "description": "רחפנים, מסוקים ומכוניות. פתח תקווה",
+    "website": "http://bargad.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bari-P2",
+    "description": "מוצרי בריאות. מודיעין",
+    "website": "http://www.bari-p2.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BathLine",
+    "description": "מקלחונים ארונות ומוצרי אמבטיה. תל אביב",
+    "website": "http://www.bathline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "beautyimage",
+    "description": "מוצרי קוסמטיקה. נתניה",
+    "website": "https://www.beautyimage.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BeautyShop",
+    "description": "טיפוח וקוסמטיקה. חיפה",
+    "website": "https://www.beautyshopmotagim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Beit-Himum",
+    "description": "בניין, חימום וקירור. ירושלים",
+    "website": "https://beit-himum.zapweb.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Be-Keys",
+    "description": "תוכנה ומחשוב. אפרתה",
+    "website": "https://be-keys.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "berko",
+    "description": "מוצרים לבית ולמטבח, ג'אדג'טים. הרצליה",
+    "website": "http://www.berko.shop",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bernard",
+    "description": "מחשבים תקשורת וציוד הקפי. קרית מוצקין",
+    "website": "http://www.bernard.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bernina",
+    "description": "מכונות תפירה. ירושלים",
+    "website": "http://www.bernina.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Best-Bike",
+    "description": "מוצרי בטיחות תחזוקה ונוי לאופנוע ולרוכב. רמת גן",
+    "website": "http://best-bike.co.il/he/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BestCell",
+    "description": "סלולאר ואביזרים. ראשון לציון",
+    "website": "http://www.bestcell.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BestElectric",
+    "description": "חנות חשמל מקוונת. פתח תקווה",
+    "website": "https://best-electric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BestPhone477",
+    "description": "חנות ומעבדת סלולר. אילת",
+    "website": "https://www.bestphone477.com/catalog.asp",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BestTools",
+    "description": "כלי עבודה, ציוד לבניין וגינון. ירושלים",
+    "website": "https://www.besttools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bidan",
+    "description": "מושבי בידה ואביזרי בטיחות. בני ברק",
+    "website": "http://bidan.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Big-Dil",
+    "description": "ברזים, סאונות, כיורים ועוד. פתח תקווה",
+    "website": "https://www.big-dil.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BigSport4U",
+    "description": "מוצרי ספורט כושר טרמפולינות בריכות. בית שמש",
+    "website": "https://www.bigsport4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BigTronic",
+    "description": "מכירת ציוד למספרות מהיבואן לצרכן. תל מונד",
+    "website": "https://www.bigtronic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BikesOnline",
+    "description": "כל מה שצריך לאופניים ולקורקינט שלך. רמת גן",
+    "website": "https://bikesonline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Billig",
+    "description": "סכיני גילוח. נתניה",
+    "website": "https://www.billig.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BirgeyHaemek",
+    "description": "כלי עבודה, ברגים, אספקה טכנית. עפולה",
+    "website": "https://www.birgeyhaemek.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BlueBlue",
+    "description": "בריכות גינה ואביזרים. פריסה ארצית",
+    "website": "http://www.blueblue.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BlueShop",
+    "description": "אביזרים למבוגרים בלבד. אשדוד",
+    "website": "http://www.blueshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BMobility",
+    "description": "קלנועיות. רגבה",
+    "website": "https://bmobility.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BoboDecor",
+    "description": "עיצוב הבית. חולון",
+    "website": "https://bobodecor.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BodyHD",
+    "description": "תוספי מזון וביגוד ספורט. תל אביב",
+    "website": "https://www.bodyhd.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BPatent",
+    "description": "פתרונות לבית ולמטבח. פתח תקווה",
+    "website": "https://www.bpatent.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bradex",
+    "description": "רהיטים ומוצרי הלייף סטייל לבית. חיפה",
+    "website": "https://www.bradex.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BrandsOnSale",
+    "description": "חנות אינטרנט למוצרי אורח חיים בריא. נתניה",
+    "website": "https://www.brandsonsale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BrandTools",
+    "description": "אספקה טכנית וכלי עבודה. פתח תקווה",
+    "website": "https://www.brandtools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BRASS-wayoflife",
+    "description": "ישירות מהיבואן-פחים, מייבשי כלים ומתקני ייבוש כביסה Brabantia, אביזרים ליין וכלי מטבח מעוצבים. חורשים",
+    "website": "http://www.brassbrands.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Brazim",
+    "description": "ברזים, מקלחונים, ארונות אמבטיה, אסלות, כיורים. פתח תקווה",
+    "website": "https://www.brazim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Brioso",
+    "description": "מוצרי קפה ומכונות. חיפה",
+    "website": "https://www.brioso.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "B-Safety",
+    "description": "ביגוד והנעלה מקצועית . חולון",
+    "website": "https://www.master-shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "b-techtools",
+    "description": "כלי עבודה. ראשון לציון",
+    "website": "https://b-techtools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bug",
+    "description": "מחשבים, סלולר וגאדג'טים. פריסה ארצית",
+    "website": "https://www.bug.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Buy-Buy",
+    "description": "חנות מוצרי חשמל ואלק' בידורית. תל אביב",
+    "website": "https://www.buy-buy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BuyCenter",
+    "description": "מחשבים, ציוד היקפי וכן שירותי התקנה ותמיכה. רמת גן",
+    "website": "https://www.buycenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BuyTheWay",
+    "description": "קניון מוצרים. ירושלים",
+    "website": "https://www.buytheway.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BuyWolf",
+    "description": "חשמל ואביזרים. חולון",
+    "website": "http://www.buywolf.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Bytes2Buy",
+    "description": "פתרונות מחשוב. תל אביב",
+    "website": "https://bytes2buy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CaffeNu",
+    "description": "חומרים וקפסולות נקיון למכונות קפה. בית דגן",
+    "website": "http://www.caffenu.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CallPerfume",
+    "description": "בשמים. רעננה",
+    "website": "https://www.callperfume.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CamelMountain",
+    "description": "מזוודות ותיקים. תל אביב",
+    "website": "https://www.camelmountain.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Camera",
+    "description": "רשת חנויות מקצועית  מחיפה ועד אילת. פריסה ארצית",
+    "website": "https://camera.co.il/heb/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CameraCity",
+    "description": "מצלמות, עדשות וציוד צילום. פתח תקווה",
+    "website": "http://www.cameracity.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Camera-Eilat",
+    "description": "חנות מצלמות. אילת",
+    "website": "https://cameraeilat.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CameraPlus",
+    "description": "מוצרי צילום. רעננה",
+    "website": "https://www.cameraplus.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CameraShop",
+    "description": "מצלמות וציוד היקפי. רמת גן",
+    "website": "https://www.camerashop.co.il/default.asp",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Camp-David",
+    "description": "מזרנים, מיטות, כריות, בסיסים. גן הדרום",
+    "website": "http://camp-david.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CarmelPc",
+    "description": "מכרתי מחשבים וציוד היקפי. חיפה",
+    "website": "https://www.carmelpc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Carpetim",
+    "description": "שטיחים. עומר",
+    "website": "https://www.carpetim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CasaCenter",
+    "description": "ריהוט לבית ולגן. פתח תקווה",
+    "website": "https://casacenter.co.il//",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CatanDog",
+    "description": "מזון וציוד לחיות מחמד. תל אביב",
+    "website": "http://www.catandog.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cat-Dog",
+    "description": "מזון ואביזרים לחיות מחמד. הוד השרון",
+    "website": "http://www.cat-dog.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Celectric",
+    "description": "מוצרי חשמל לבית. אשדוד",
+    "website": "http://www.celectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cellfi",
+    "description": "מחשבים, סלולאר וחשמל. רמת גן",
+    "website": "https://cellfi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cell-Tec",
+    "description": "חנות ואתר קניות באינטרנט. חיפה",
+    "website": "http://www.cell-tec.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cellular-Fix",
+    "description": "מעבדת סלולאר. פתח תקווה",
+    "website": "https://cellularfix.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cellular-Gadget",
+    "description": "אביזרי סלולר. ראשון לציון",
+    "website": "https://cellular-gadget.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CenterToys",
+    "description": "צעצועים ומכשירי כתיבה. תנובות",
+    "website": "http://www.centertoys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CentHair",
+    "description": "מוצרים מקצועיים לשיער. פריסה ארצית",
+    "website": "https://centhair.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "C-F",
+    "description": "מקררים לרכב. באר שבע",
+    "website": "https://c-f.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "chair-club",
+    "description": "כסאות מנהלים, משרד וגיימינג. תל אביב",
+    "website": "http://www.chair-club.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "championshop",
+    "description": "רשת תוספי התזונה והספורט המובילה. חדרה",
+    "website": "https://championshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ChanOfan",
+    "description": "מתקני חניה ונשיאת אופניים. תל אביב",
+    "website": "http://www.chanofan.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ch-Ch",
+    "description": "חשמל ואלקטרוניקה. ירושלים",
+    "website": "https://www.ch-ch.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cheaper",
+    "description": "סטריאו ומערכות שמע. תל אביב",
+    "website": "http://cheaper.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Chitori",
+    "description": "כלי נגינה אתניים. גינתון",
+    "website": "https://chitori.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CityDeal",
+    "description": "אתר מסחר אלקטרוני ברשת. אשדוד",
+    "website": "http://www.citydeal.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CityRunner",
+    "description": "קורקינטים חשמליים, אופניים אביזרים. תל אביב",
+    "website": "https://www.cityrunner.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CitySport",
+    "description": "ציוד כושר ופנאי. חיפה",
+    "website": "http://citysport.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ClearTech",
+    "description": "מוצרי סינון, טיהור והשבחת מים. פתח תקווה",
+    "website": "http://www.cleartech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ClickDance",
+    "description": "בגדי מחול ונעלי ריקוד. תל אביב",
+    "website": "https://www.clickdance.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ClickShop",
+    "description": "מטיילים, חיילים, בית, מדע, מתנות. תל אביב",
+    "website": "https://www.clickshop.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ClubPharm",
+    "description": "מוצרי פארם וקוסמטיקה. בית חירות",
+    "website": "http://www.clubpharm.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cm-Yk",
+    "description": "פתרונות הדפסה. בית שמש",
+    "website": "http://cm-yk.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Coffee4U",
+    "description": "חנות קפה, מכונות קפה לבית ולעסק.. תל אביב",
+    "website": "https://www.coffee4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CoffeeMan",
+    "description": "מכונות קפה, קפה, קפסולות ואביזר. פריסה ארצית",
+    "website": "http://www.coffeeman.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "comcell",
+    "description": "מחשבים וסלולאר. נתניה",
+    "website": "https://www.comcell.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CompIU",
+    "description": "מחשבים תקשורת. רמת גן",
+    "website": "https://www.compiu.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Comp-Shop",
+    "description": "חנות ומעבדת מחשבים. אשדוד",
+    "website": "https://compshop.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Conex",
+    "description": "יבוא ושיווק קרמיקה ,כלים סינטריים. כפר ברא",
+    "website": "https://www.conex.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ConvexHome",
+    "description": "מוצרי חשמל וטיפוח. הרצליה",
+    "website": "https://convexhome.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CoolPool",
+    "description": "ציוד לבריכות ומוצרי כושר ביתיים. פתח תקווה",
+    "website": "https://www.coolpool.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CoolWine",
+    "description": "מקררי יין איכותיים ומוקפדים. כפר יעבץ",
+    "website": "https://www.coolwine.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CopyTech",
+    "description": "מוצרים בתחום המיכון המשרדי. חיפה",
+    "website": "https://www.copytech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cosmetic-Club",
+    "description": "בישום וקוסמטיקה. רחובות",
+    "website": "https://www.cosmetic-club.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Cosmos",
+    "description": "טלסקופים, משקפות ומקרוסקופים. רמת גן",
+    "website": "http://www.cosmos.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Creama",
+    "description": "מוצרים מעולם הקפה. יבנה",
+    "website": "http://www.creama.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CrossOver",
+    "description": "חנות סטריאו. תל אביב",
+    "website": "https://www.crossover.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CTime",
+    "description": "שעוני יד. רמת גן",
+    "website": "https://ctime.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CWC",
+    "description": "חשמל, אלקטרוניקה, מחשבים ומיזוג. פריסה ארצית",
+    "website": "https://www.cwc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "D9Shop",
+    "description": "מוצרי חשמל. נתניה",
+    "website": "https://www.d9shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dailysale",
+    "description": "אתר מכירות מוצרי חשמל משנת 1999. טבריה",
+    "website": "https://www.dailysale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Daniel-Fitness",
+    "description": "חנות ספורט ופנאי. מודיעין",
+    "website": "https://www.daniel-fitness.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "dannynewfeld",
+    "description": ". רעננה",
+    "website": "https://www.dannynewfeld.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "David-malca",
+    "description": "חומרי בניין. אור עקיבא",
+    "website": "https://davidmalka.konimbo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dc-Tech",
+    "description": "מחשבים וציוד היקפי. חיפה",
+    "website": "http://www.dc-tech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DDavidi",
+    "description": "ציוד מקצועי למספרות ולפרטיים. ראשון לציון",
+    "website": "https://www.ddavidi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Design4You",
+    "description": "רהיטים. פריסה ארצית",
+    "website": "http://www.design4you.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Digi-Digi",
+    "description": "למבוגרים בלבד. אשדוד",
+    "website": "http://digi-digi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DigitalCenter",
+    "description": "מוצרי גיימינג ואלקטרוניקה. פריסה ארצית",
+    "website": "http://www.digitalcenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DigitalElectric",
+    "description": "חשמל ואלקטרוניקה. ראשון לציון",
+    "website": "https://digital-electric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DioIsrael",
+    "description": "ציוד היקפי למשרד. תל אביב",
+    "website": "https://www.dioisrael.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DioPlus",
+    "description": "מכירת מדפסות משולבות מתכלים ומיכון. תל אביב",
+    "website": "https://www.dioplus.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DirectB2B",
+    "description": "תקשורת ומחשוב. הוד השרון",
+    "website": "https://directb2b.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Direct-Israline",
+    "description": "גאדג'טים וציוד היקפי למחשבים וסלולאר. ראשון לציון",
+    "website": "http://direct-israline.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DirectPrice",
+    "description": "יבוא שיווק ומכירה של כלים סניטרים. מודיעין",
+    "website": "https://www.directprice.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Diy-Israel",
+    "description": "מוצרי עשה זאת בעצמך. קדימה צורן",
+    "website": "https://www.home360.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Djshop",
+    "description": "ציוד לאולפן דיג׳יי ואודיו מקצועי. פריסה ארצית",
+    "website": "https://www.kilombo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DK-Store",
+    "description": "תכשיטים, שעונים ומתנות. נצרת",
+    "website": "https://dk-store.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Doctor-Toner",
+    "description": "מדפסות, דיו וטונרים. בני ברק",
+    "website": "http://www.doctor-toner.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Doricoh",
+    "description": "מיכון משרדי. פתח תקווה",
+    "website": "http://www.doricoh.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DrChip",
+    "description": "קונסולות משחק ומחשבים. ראשון לציון",
+    "website": "https://www.drchip.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dr-Dyo",
+    "description": "דיו, מדפסות וציוד חומרה. תל אביב",
+    "website": "https://www.dr-dyo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DreamKids",
+    "description": "צעצועים ואביזרים לתינוק. רמלה",
+    "website": "https://www.dreamkids.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DrorPestControl",
+    "description": "מוצרי הדברה. פריסה ארצית",
+    "website": "https://drorpestcontrol.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dror-Tools",
+    "description": "כלי עבודה. תל אביב",
+    "website": "https://www.dror-tools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DrSpy",
+    "description": "ציוד הקלטה,האזנה,מעקב והגנה עצמית. יהוד",
+    "website": "http://www.drspy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Drummer",
+    "description": "כלי נגינה. פתח תקווה",
+    "website": "http://shop.drummer.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DSA-Sys",
+    "description": "חנות מחשבים סלולר. יבנה",
+    "website": "http://www.dsa-sys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dumbo4Pets",
+    "description": "מזון וציוד לבעלי חיים. אשדוד",
+    "website": "https://www.dumbo4pets.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dutycom",
+    "description": "מחשוב וציוד היקפי. פתח תקווה",
+    "website": "https://www.dutycom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DVDCenter",
+    "description": "יבואן טלוויזיות ומערכות קולנוע. כרמיאל",
+    "website": "http://www.dvdcenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DyoFix",
+    "description": "ציוד ומיכון משרדי. חיפה",
+    "website": "https://www.dyofix1.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dyo-Ink",
+    "description": "דיו וטונרים מדפסות וציוד היקפי. ירושלים",
+    "website": "http://dyo-ink.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EBath",
+    "description": "אביזרי אמבט בשיווק ישיר. חולון",
+    "website": "https://www.ebath.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EBike1",
+    "description": "אופניים חשמליים. תל אביב",
+    "website": "http://www.ebike1.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ecommunity",
+    "description": "מחשבים. משגב",
+    "website": "https://ecommunity.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EcoRihut",
+    "description": "ריהוט מעץ מלא. תנובות",
+    "website": "https://www.ecorihut.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EDepot",
+    "description": "מוצרי חשמל ואלקטרוניקה. ראש העין",
+    "website": "https://edepot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EfiBike",
+    "description": "אופניים. תל אביב",
+    "website": "https://efibike.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EilatDepot",
+    "description": "מתחם הקניות ועיצוב הבית הגדול בישר. אילת",
+    "website": "https://www.eilatdepot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Elecom",
+    "description": "מוצרי חשמל קטנים לבית. הרצליה",
+    "website": "http://www.elecom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Electrica",
+    "description": "מוצרי חשמל ואלקטרוניקה. ירושלים",
+    "website": "https://www.electrica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectricLand",
+    "description": "מוצרי חשמל. אור יהודה",
+    "website": "https://electricland.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectricSale",
+    "description": "מכשירי חשמל ואלקטרוניקה. בני ברק",
+    "website": "https://www.electricsale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectricShop",
+    "description": "חשמל ואלקטרוניקה. פתח תקווה",
+    "website": "https://www.electricshop.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Electric-Shop",
+    "description": "מוצרי חשמל. רחובות",
+    "website": "http://www.electric-shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectricSmile",
+    "description": "מיזוג אוויר. כפר חב\"ד",
+    "website": "http://www.electricsmile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Electro.Y",
+    "description": "אלקטרוניקה בידורית וחשמל. תל אביב",
+    "website": "https://ycelectric.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Electro-Buy",
+    "description": "מוצרי חשמל. חיפה",
+    "website": "https://www.electro-buy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroClick",
+    "description": "מוצרי חשמל. תל אביב",
+    "website": "http://www.electroclick.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroCohen",
+    "description": "מוצרי חשמל ואלקטרוניקה שלטים נורות. חולון",
+    "website": "https://www.electrocohen.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroEshed",
+    "description": "מוצרי חשמל ביתיים. בת ים",
+    "website": "https://electroeshed.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroGas",
+    "description": "יבוא ושיווק מוצרים ואביזרי גז. פתח תקווה",
+    "website": "http://electrogas.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroLine",
+    "description": "מוצרי חשמל לבית. פתח תקווה",
+    "website": "https://www.electroline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroShiri",
+    "description": "מוצרי חשמל קטנים. רמת גן",
+    "website": "https://www.shirielectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ElectroSlil",
+    "description": "כלי עבודה וציוד טכני. ירושלים",
+    "website": "https://www.electroslil.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EliaShave",
+    "description": "מוצרי חשמל לבית. תל אביב",
+    "website": "http://www.eliashave.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Eline",
+    "description": "סלולאר ואביזרים. פריסה ארצית",
+    "website": "https://www.eline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Eline-Eilat",
+    "description": "סלולאר ואביזרים. אילת",
+    "website": "http://eline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "E-Mor",
+    "description": "קניון וירטואלי. בני ברק",
+    "website": "http://www.e-mor.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EndlessRoll",
+    "description": "מוצרי ספורט אקסטרים. תל אביב",
+    "website": "http://www.endlessroll.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EnjoyStick",
+    "description": "משחקי מחשב וקונסולות. פריסה ארצית",
+    "website": "https://www.enjoystick.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ePlus",
+    "description": "חשמל ואלקטרוניקה. בני ברק",
+    "website": "https://www.eplus.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Erlich",
+    "description": "מצלמות וציוד היקפי. תל אביב",
+    "website": "https://www.erlich.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Espresso-Center",
+    "description": "מכונות קפה ומוצרי קפה ותה. פריסה ארצית",
+    "website": "https://www.espresso-center.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Eureka",
+    "description": "ילדים וצעצועים. יבנה",
+    "website": "https://www.eureka2010.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Evinoxmax",
+    "description": "כלי מטבח. ראשון לציון",
+    "website": "http://www.evinoxmax.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "eye-c-optic",
+    "description": "אופטיקה. נהריה",
+    "website": "https://www.eye-c-optic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "E-Zone",
+    "description": "מוצרי חשמל. שילת",
+    "website": "http://www.e-zone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "EzTime",
+    "description": "שעוני נוכחות לעסקים. מעלה אדומים",
+    "website": "http://www.eztime.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Fabio-Sanitary",
+    "description": "ברזים ואביזרי אמבט. ראשון לציון",
+    "website": "https://fabio-sanitary.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Fax4U",
+    "description": "מיכון משרדי לבית ולמשרד. תל אביב",
+    "website": "https://fax4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "FetishDeal",
+    "description": "למבוגרים בלבד. תל אביב",
+    "website": "http://www.fetishdeal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "FilterOutlet",
+    "description": "פילטרים לסינון מים ומוצרי קפה. ניר ישראל",
+    "website": "http://filteroutlet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "FirstPrice",
+    "description": "מוצרי חשמל. מודיעין",
+    "website": "http://www.firstprice.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Fre",
+    "description": "שיווק מחשבים וציוד היקפי. רמת גן",
+    "website": "http://www.fre.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Free24-7",
+    "description": "מכשירי חשמל. אשדוד",
+    "website": "https://free24-7.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "FreeDio",
+    "description": "מדפסות, מתכלים ומיכון משרדי. תל אביב",
+    "website": "https://www.freedio.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "FunSex",
+    "description": "למבוגרים בלבד. תל אביב",
+    "website": "https://funsex.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Fuse",
+    "description": "סטריאו וקולנוע ביתי. גבעתיים",
+    "website": "http://fuse.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "FutureAV",
+    "description": "קולנוע ביתי,סטריאו ומסכים. תל אביב",
+    "website": "https://www.futureav.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Gadget-Cellular",
+    "description": "סלולאר ואביזרים. ראשון לציון",
+    "website": "http://www.gadget-cellular.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GadgetLine",
+    "description": "מתנות מקוריות וגאדג'טים. תל אביב",
+    "website": "https://www.gadgetline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Gadget-Mobile",
+    "description": "מכשירים סלולרים, גאדגט וציוד נלווה. אילת",
+    "website": "https://gadget-mobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GadgetShop",
+    "description": "מתנות מקוריות, משחקי מנהלים, גימיקים מדליקים וגאדג'טס. רמת גן",
+    "website": "http://www.gadgetshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Gadget-Team",
+    "description": "סלולאר ואביזרים. יהוד",
+    "website": "https://gadget-team.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GalPure",
+    "description": "מטהרי מים. רמת גן",
+    "website": "http://www.galpure.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GalToren",
+    "description": "בוטיק ציפורניים. ראשון לציון",
+    "website": "https://www.galtoren.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GameMobile",
+    "description": "חנות למשחקי וידאו וקונסולות. ראשון לציון",
+    "website": "http://www.gamemobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GameStore",
+    "description": "גאדג'טים וסלולאר. תל אביב",
+    "website": "https://www.gamestore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GameStorm",
+    "description": "קונסולות ומשחקים מחשבים וסלולאר. יבנה",
+    "website": "https://www.gamestorm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GamingDragons",
+    "description": "משחקים לקונסולות. חדרה",
+    "website": "http://www.gamingdragons.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GavMedic",
+    "description": "מוצרים אורתופדיים. נתניה",
+    "website": "https://www.gavmedic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GenesisGames",
+    "description": "משחקי וידאו ומחשב. נתניה",
+    "website": "https://www.genesisgames.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "get-deal",
+    "description": "מוצרי מחשוב. ברקן",
+    "website": "https://www.get-deal.com",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "G-H",
+    "description": "חנות רהיטים ומזרנים. יבנה",
+    "website": "https://g-h.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GiliLens",
+    "description": "מבחר עדשות מגע. כרמיאל",
+    "website": "https://www.gililens.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GiliSkateShop",
+    "description": "סקייטבורד. תל אביב",
+    "website": "https://giliskateshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GinaPlus",
+    "description": "מבחר מוצרים לגינה. קיבוץ טללים",
+    "website": "https://www.ginaplus.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Gladiator",
+    "description": "מוצרי חשמל. ראשון לציון",
+    "website": "https://gladiator.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Glass-Phone",
+    "description": "סלולאר, טאבלטים ואביזרים מכירה. רחובות",
+    "website": "http://glass-phone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Glilon",
+    "description": "מדבקות ותוויות. לוד",
+    "website": "https://www.glilon.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GlobalCell",
+    "description": "סלולאר ואביזרים. אביחיל",
+    "website": "https://www.globalcell.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoldenDown",
+    "description": "ייצור כריות ושמיכות. רשפון",
+    "website": "http://www.goldendown.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoldenRose",
+    "description": "קוסמטיקה בישום ומוצרי איפור. תל אביב",
+    "website": "https://www.goldenrose.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoldPharm",
+    "description": "חיתולים למבוגרים | אבזרי שיקום. פתח תקווה",
+    "website": "http://www.goldpharm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoLuggage",
+    "description": "תיקים ומזוודות. רעננה",
+    "website": "https://www.goluggage.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoMobile",
+    "description": "מכשירים סלולרים וציוד נלווה. פריסה ארצית",
+    "website": "https://www.gomobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Goodest",
+    "description": "ציוד למטפלים, קוסמטיקה וספורט. ראש העין",
+    "website": "https://goodest.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoodTime",
+    "description": "שעוני יד. פריסה ארצית",
+    "website": "https://www.goodtime.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GoZohar",
+    "description": "חשמל וגאדג'טים. נתניה",
+    "website": "https://www.gozohar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GrafPc",
+    "description": "מחשבים גאדג'טים וציוד היקפי. כפר סבא",
+    "website": "http://www.grafpc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GreenBanana",
+    "description": "הבית של הפופים בישראל. שילת",
+    "website": "https://greenbanana.co.il/he/shop",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "greengoenergy",
+    "description": "סוללות ומטענים. תל אביב",
+    "website": "https://greengoenergy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GreenKoala",
+    "description": "פחי אשפה ופחי מיחזור מעוצבים. שדי חמד",
+    "website": "http://www.greenkoala.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GreenMobile",
+    "description": "סלולר, אביזרים ומעבדה. אשדוד",
+    "website": "https://greenmobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Green-Toys",
+    "description": "צעצועי תינוקות וילדים. צפת",
+    "website": "http://www.green-toys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GrillMaster",
+    "description": "גרילי גז , מעשנות  ואביזרים. רמת השרון",
+    "website": "https://grillmaster.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "G-Tech",
+    "description": "מחשבים, ניידים וציוד היקפי. תל אביב",
+    "website": "https://www.g-tech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GTI",
+    "description": "מוצרי אבטחה וגאדג'טים. הרצליה",
+    "website": "http://www.gti.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GvaotEnergy",
+    "description": "מוצרי אנרגיה סולארית. נוקדים",
+    "website": "http://www.gvaotenergy.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HaBoosh",
+    "description": "כלי עבודה ואספקה טכנית. קדימה צורן",
+    "website": "https://www.haboosh.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hacontainer",
+    "description": "חשמל ואלקטרוניקה (תל אביב). תל אביב",
+    "website": "http://www.hacontainer.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hair360",
+    "description": "מוצרי טיפוח לשיער,תכשירים וציוד למספרות. רחובות",
+    "website": "http://www.hair360.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hair4You",
+    "description": "מוצרי שיער. הרצליה",
+    "website": "http://www.hair4you.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "hairworld",
+    "description": "מוצרי טיפוח לשיער. פתח תקווה",
+    "website": "http://hairworld.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HakoLabait",
+    "description": "מוצרים לבית. הוד השרון",
+    "website": "http://www.hakolabait.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HakolKan",
+    "description": "רהיטי גן. ירושלים",
+    "website": "http://www.hakolkan.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Halalit",
+    "description": "חנות מוצרי חשמל. תל אביב",
+    "website": "http://www.halalit.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hameavrer",
+    "description": "מאווררים, מפוחים ונטות ועוד. רמת גן",
+    "website": "http://www.hameavrer.biz/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hamechola",
+    "description": "ריהוט גן'מחסני גינה,טרמפולינות. בצרה",
+    "website": "http://hamechola.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hameir",
+    "description": "חנות און-ליין. פתח תקווה",
+    "website": "http://www.hameir.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hamerkaz4U",
+    "description": "קניון מוצרים. תל אביב",
+    "website": "https://hamerkaz4u.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HappyHop",
+    "description": "מתקנים לבית ולחצר. רשפון",
+    "website": "http://www.happyhop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HappyPhone",
+    "description": "מעבדת סלולאר. אשדוד",
+    "website": "https://happyphone.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Harim",
+    "description": "חנות אונליין לרוכבי אופניים. הרצליה",
+    "website": "https://shop.harim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Harishon-Labinyan",
+    "description": "כלי עבודה וחומרי בניין. פתח תקווה",
+    "website": "http://www.harishon-labinyan.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HashmaLeculam",
+    "description": "מוצרי חשמל. רחובות",
+    "website": "https://www.hashmaleculam.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hashmal-Price",
+    "description": "מוצרי חשמל וריהוט מהיבואן לצרכן. אשדוד",
+    "website": "http://www.hashmal-price.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HastokSharona",
+    "description": "מוצרים לבית. רחובות",
+    "website": "https://hastoksharona.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hatikun",
+    "description": "אופניים וקורקינטים חשמליים. בת ים",
+    "website": "https://hatikun.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hayevuan",
+    "description": "חשמל ואלקטרוניקה לבית. פתח תקווה",
+    "website": "http://www.hayevuan.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hay-Pharm",
+    "description": "בריאות וטיפוח. רמלה",
+    "website": "https://www.hay-pharm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HDToner",
+    "description": "מיכון משרדי. פתח תקווה",
+    "website": "https://www.hdtoner.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HeadSound",
+    "description": "חנות אודיו המתמחה באוזניות. קרית אונו",
+    "website": "https://headsound.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hidabroot",
+    "description": "מוצרי יודאיקה ויהדות. פתח תקווה",
+    "website": "https://shops.hidabroot.org/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HinamPlus",
+    "description": "סלולר • קונסולות משחק • מחשבים. בנימינה",
+    "website": "https://www.hinamplus.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "hishhay",
+    "description": "מזון וציוד לחיות מחמד. גבעתיים",
+    "website": "https://www.hishhay.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Hjush",
+    "description": "גאדג'טים ומתנות מיוחדות. בני ברק",
+    "website": "https://hjush.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Homax",
+    "description": "ריהוט. גבעת שמואל",
+    "website": "https://www.homax.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HomeCenter",
+    "description": "חשמל, אלקטרוניקה, לבית ולגן. פריסה ארצית",
+    "website": "http://www.homecenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HomeDecor",
+    "description": ". ראשון לציון",
+    "website": "http://www.hayevuan.co.il/https://www.hay-pharm.co.il/https://www.hdtoner.co.il/https://headsound.co.il/https://shops.hidabroot.org/https://www.hinamplus.co.il/https://www.hishhay.co.il/https://hjush.com/https://www.homax.co.il/http://www.homecenter.co.il/http://homegame.co.il/https://www.homelectric.co.il/https://homelife.co.il/home/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HomeGame",
+    "description": "משחקי וידאו וקונסולות. קרית אונו",
+    "website": "http://homegame.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HomElectric",
+    "description": "מוצרי חשמל. יד מרדכי",
+    "website": "https://www.homelectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HomeLife",
+    "description": "ריהוט. גאולים",
+    "website": "https://homelife.co.il/home/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HomeOnline",
+    "description": "מוצרים לעיצוב הבית. ראשון לציון",
+    "website": "https://homeonline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HTools",
+    "description": "חומרי בניין. טבריה",
+    "website": "https://www.htools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HydroMarket",
+    "description": "קולטי לחות לבית, למשרד ולעסק. אבן יהודה",
+    "website": "https://www.hydromarket.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IBands",
+    "description": "סלולר • קונסולות משחק • מחשבים. תל קציר",
+    "website": "https://www.ibands.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ICake",
+    "description": "אפייה. סביון",
+    "website": "http://www.icake.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "I-Cell",
+    "description": "טלפונים סלולאריים וציוד היקפי. פריסה ארצית",
+    "website": "http://www.i-cell.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Idan88",
+    "description": "אספקה טכנית וכלי עבודה. אשקלון",
+    "website": "https://www.idan88.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IdanSound",
+    "description": "מערכות סינמה ומסכים. פתח תקווה",
+    "website": "https://idansound.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IGM",
+    "description": "חשמל לבית. ראש העין",
+    "website": "https://www.igm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IHP-Store",
+    "description": "מחשבים , סלולאר וגאדג'טים. מודיעין",
+    "website": "https://www.ihp-store.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IMatrix",
+    "description": "ציוד היקפי למחשבים וסלולר,גאדג'טים. הוד השרון",
+    "website": "https://www.imatrix.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Im-Haadama",
+    "description": "ריהוט ומוצרי גן. ביתן אהרון",
+    "website": "http://www.im-haadama.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ImobileIsrael",
+    "description": "טלפונים סלולריים ואבזרים. יהוד",
+    "website": "https://www.imobileisrael.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "I-Needyo",
+    "description": "מחיר זול במיוחד למשתמשי זאפ. כפר אחים",
+    "website": "https://www.i-needyo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "InkDepot",
+    "description": "מדפסות, ראשי דיו' טונרים ומחשבים. נס ציונה",
+    "website": "https://inkdepot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "InSale",
+    "description": "מוצרי חשמל ואלקטרוניקה מתצוגה. הרצליה",
+    "website": "http://www.insale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "i-optic",
+    "description": "עדשות ומשקפיים. רמת גן",
+    "website": "https://www.i-optic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IPro",
+    "description": "סלולאר וגאדג'טים. מודיעין",
+    "website": "https://ipro.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "IRobot",
+    "description": "שואבי אבק רובוטיים. פריסה ארצית",
+    "website": "https://irobot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "I-Secure",
+    "description": "ציוד האזנה והקלטות, מצלמות נסתרות. רמת גן",
+    "website": "http://i-secure.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ItayBicycle",
+    "description": "מכירה ותיקון אופניים וציוד מקצועי. תל אביב",
+    "website": "http://www.itaybicycle.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ItechMobile",
+    "description": "סלולאר ואביזרים. רמת גן",
+    "website": "https://www.itechmobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ItechStore",
+    "description": "סלולר, גיימינג , חשמל ומולטימדיה. יהוד",
+    "website": "https://www.itechstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ITOutlet",
+    "description": "ציוד מיחשוב ואלקטרוניקה. פתח תקווה",
+    "website": "https://www.itoutlet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "iwtools",
+    "description": "כלי עבודה גינון והספקה טכנית. חיפה",
+    "website": "https://www.iwtools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Jaango",
+    "description": "מזון וציוד לחיות. חדרה",
+    "website": "https://jaango.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Jbstore",
+    "description": "מוצרי אלקטרוניקה ומחשבים. פתח תקווה",
+    "website": "https://www.jbstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Jonathan",
+    "description": "דילר בשמים אישי. קרית אונו",
+    "website": "https://www.jonathan.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Jossy",
+    "description": "חנות וירטואלית לתכשיטים ושעונים. חולון",
+    "website": "http://www.jossy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "J-Rubin",
+    "description": "חנות למכונות גילוח ותספורת. תל אביב",
+    "website": "https://www.j-rubin.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "J-Sale",
+    "description": "מצלמות וצרכי צילום. תל אביב",
+    "website": "https://www.j-sale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "JudaicaCity",
+    "description": "יודאיקה ותשמישי קדושה. אלעד",
+    "website": "http://www.judaicacity.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "JumpKing",
+    "description": "טרמפולינות סאונות מגלשות ונדנדות. כפר חושן",
+    "website": "http://jumpking.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Jungle-City",
+    "description": "ציוד ומזון לבעלי חיים. חולון",
+    "website": "https://www.jungle-city.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KarcherStore",
+    "description": "ציוד נקיון של חברת קארשר. פתח תקווה",
+    "website": "http://karcherstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KatePhone",
+    "description": "מעבדת סלולר. גבעתיים",
+    "website": "https://katephone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "kav-Isr",
+    "description": "תקשורת ובטחון. רחובות",
+    "website": "https://kav-isr.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KBMall",
+    "description": "ציוד משרדי. עפולה",
+    "website": "https://www.kbmall.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "kbtPlay",
+    "description": "מתקנים לחצר. כפר חושן",
+    "website": "https://www.kbtplay.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Kehela",
+    "description": "פתרונות הדפסה. רמת גן",
+    "website": "http://www.kehela.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "keramica",
+    "description": "קרמיקה, פרקטים, ברזים, אסלות ועוד. בני ברק",
+    "website": "https://www.keramica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Keramics",
+    "description": "מוצרי עיצוב לבית. חולון",
+    "website": "http://www.keramics.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KerenEl",
+    "description": "חנות למוצרי אלקטרוניקה,קוראי ספרים. חולון",
+    "website": "https://kerenel.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KfitzKfotz",
+    "description": "מתנפחים ובריכות פעילות. תל מונד",
+    "website": "https://www.kfitzkfotz.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KimElectric",
+    "description": "מוצרי חשמל. רמת גן",
+    "website": "https://kimelectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KingBaby",
+    "description": "מוצרי תינוקות וילדים. בית שאן",
+    "website": "https://kingbaby.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "King-Games",
+    "description": "מחשבים קונסולות וגיימינג. יבנה",
+    "website": "https://www.king-games.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "kingPc",
+    "description": "מחשבים וציוד היקפי. נתניה",
+    "website": "http://www.king-pc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KingsOfPools",
+    "description": "בריכות ואביזרים. באר שבע",
+    "website": "http://www.kingsofpools.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Kisaot",
+    "description": "ריהוט משרדי. תל אביב",
+    "website": "http://www.kisaot.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "kitchenWare",
+    "description": "כלי מטבח,כלים לבית,ג'אגדטים למטבח. רחובות",
+    "website": "http://www.kitchenware.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Knife",
+    "description": "סכינים, ציוד השרדות ומחנאות. רמת גן",
+    "website": "http://www.knife.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KodeshNet",
+    "description": "מוצרי קודש, יודאיקה ותשמישי קדושה בכשרות מהודרת. פתח תקווה",
+    "website": "http://www.kodeshnet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KolboGan",
+    "description": "מוצרים לבית ולגן. נחלים",
+    "website": "http://kolbogan.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KolboSima",
+    "description": "יבוא שווק והפצה. פריסה ארצית",
+    "website": "http://kolbosima.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KolHamusica",
+    "description": "כלי נגינה ציוד אולפן והגברה. חיפה",
+    "website": "https://kolhamusica.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Kol-Ziud",
+    "description": "כלי גינון וחקלאות. קרית שמונה",
+    "website": "https://www.kol-ziud.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "KonimYarok",
+    "description": "מוצרים מתחומי סביבה ירוקה ומיחזור. מושב נוב",
+    "website": "http://www.konimyarok.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "korkifix",
+    "description": "קורקינטים, אופניים חשמליים ואביזרים. תל אביב",
+    "website": "https://www.korkifix.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Kor-Light",
+    "description": "מוצרי חשמל. ראשון לציון",
+    "website": "http://kor-light.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Kosko",
+    "description": "מבחר מוצרים סניטריים. תל אביב",
+    "website": "http://www.kosko.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Krool",
+    "description": "מוצרי מיזוג אוויר ומוצרי חשמל לבנים. חולון",
+    "website": "http://krool.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "K-Shop",
+    "description": "ציוד ספורט ופנאי. הוד השרון",
+    "website": "http://k-shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Kupper",
+    "description": "מוצרי חשמל למטבח. ראש העין",
+    "website": "https://kupper.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Lab",
+    "description": "מעבדת סלולר וחנות מכירה. ראשון לציון",
+    "website": "https://www.lab.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "La-Bama",
+    "description": "כלי נגינה, ציוד הגברה ותאורה. קרית שמונה",
+    "website": "https://la-bama.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LakeWater",
+    "description": "מתקני מים ומערכות סינון. עזריה",
+    "website": "http://lakewater.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LandersShop",
+    "description": "מקררים קטנים,יין,משקאות,רכב,תצוגה. גנות",
+    "website": "http://www.landersshop.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Landwer",
+    "description": "קפה ומוצרים. תל אביב",
+    "website": "http://www.landwer.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Laptop",
+    "description": "מחשבים ניידים וחלקי חילוף. רמת גן",
+    "website": "https://www.laptop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaptopEnergy",
+    "description": "סוללות ומטענים למחשבים ניידים. רחובות",
+    "website": "http://laptopenergy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaptopOutlet",
+    "description": "מחשבים וטאבלטים. פתח תקווה",
+    "website": "http://www.laptopoutlet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaptopRepair",
+    "description": "תיקון ומכירת מחשבים ניידים וציוד היקפי. רחובות",
+    "website": "http://laptoprepair.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaptopScreen",
+    "description": "מסכים למחשבים ניידים. רחובות",
+    "website": "https://laptopscreen.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaserElc",
+    "description": "אלקטרוניקה וסלולאר. ירושלים",
+    "website": "https://laserelc.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaserLine",
+    "description": "מיכון משרדי. רמת גן",
+    "website": "https://www.laserline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LaShantel",
+    "description": "רשת חנויות למוצרי השיער ממיטב החברות המובילות. נתניה",
+    "website": "http://www.lashantel.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LCDeal",
+    "description": "חשמל ואלקטרוניקה. פתח תקווה",
+    "website": "https://lcdeal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ledico",
+    "description": "כלי עבודה. ראשון לציון",
+    "website": "https://www.ledico-store.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Legacy",
+    "description": "מער' סטריאו, קולנוע ביתי ומסכים דקים. חיפה",
+    "website": "https://www.legacy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Lens",
+    "description": "המרכז לעדשות מגע. בת ים",
+    "website": "https://www.lens.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LevMotors",
+    "description": "כלי גינון,כלי עבודה  אביזרי בטיחות. חולון",
+    "website": "http://www.levmotors.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Liga10",
+    "description": "קניון מוצרים. נתיבות",
+    "website": "https://liga10.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LionKing",
+    "description": "מזון וציוד לחיות מחמד. כפר סבא",
+    "website": "https://www.lionking.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LKBags",
+    "description": "תיקים,ארנקים מזוודות וציוד אופנה. תל אביב",
+    "website": "http://www.locks.co.il/https://loveramics.co.il/https://lpcomputers.co.il/https://www.lubliner-mizronim.co.il/https://www.lumines.co.ilhttps://www.mabatelectric.com/http://madpasot-plus.co.ilhttps://www.magical-notes.co.il/https://www.makoletonline.co.il/https://www.makorhachashmal.co.il/https://www.makortech.co.il/https://malinuapet.co.il/https://maordeal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Locks",
+    "description": "חנות מנעולים ומוצרי נעילה. פתח תקווה",
+    "website": "http://www.locks.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Loveramics",
+    "description": "כלי אוכל. יבנה",
+    "website": "https://loveramics.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "LPComputers",
+    "description": "מוצרי מחשוב. קרית שמונה",
+    "website": "https://lpcomputers.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Lubliner",
+    "description": "רהיטים לבית. תל אביב",
+    "website": "https://www.lubliner-mizronim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Lumines",
+    "description": "גופי תאורה ולדים. ראש העין",
+    "website": "https://www.lumines.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MabatElectric",
+    "description": "מוצרי חשמל ואלקטרוניקה. כל הארץ",
+    "website": "https://www.mabatelectric.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Madpasot-Plus",
+    "description": "מיכון משרדי. חולון",
+    "website": "http://madpasot-plus.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Magical-Notes",
+    "description": "כלי נגינה והגברה. בית שמש",
+    "website": "https://www.magical-notes.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "makoletonline",
+    "description": "ציוד לחיות מחמד. נתניה",
+    "website": "https://www.makoletonline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MakorhacHashmal",
+    "description": "מוצרי חשמל כלי בית ואלקטרוניקה. חיפה",
+    "website": "https://www.makorhachashmal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MakorTech",
+    "description": "פתרונות זיהוי טכנולוגיים. ראשון לציון",
+    "website": "https://www.makortech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Malinua-Pet",
+    "description": "מזון וציוד לחיות מחמד. תל אביב",
+    "website": "https://malinuapet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MaorDeal",
+    "description": "צילום ואלקטרוניקה. בת ים",
+    "website": "https://maordeal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MaorPhone",
+    "description": "תיקוני סלולר. אשקלון",
+    "website": "https://maorphone.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "marco-online",
+    "description": "מוצרי סניטריה. חולון",
+    "website": "https://www.marco-online.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Matanyah",
+    "description": "ריהוט ואבזור בתי כנסת. חולון",
+    "website": "http://www.matanyah.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MatiPrint",
+    "description": "ראשי דיו, טונרים וציוד היקפי למחשבים. תל אביב",
+    "website": "https://www.matiprint.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Matov",
+    "description": "ציוד רפואי. רינתיה",
+    "website": "https://matov.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Matsberim",
+    "description": "מצברים. תל אביב",
+    "website": "http://matsberim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MaxPro",
+    "description": "מוצרי שיער וטיפוח. נתניה",
+    "website": "https://www.maxpro.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "M-Cell",
+    "description": "סלולאר וחשמל. אילת",
+    "website": "https://www.m-cell.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MDE",
+    "description": "סוללות לאופניים חשמליים. רינתיה",
+    "website": "http://www.mde.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MDVD-Print",
+    "description": "הדפסת קנבסים. חדרה",
+    "website": "https://mdvd-print.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MDyo",
+    "description": "דיו וטונרים. תל אביב",
+    "website": "https://mdyo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mechanik",
+    "description": "מיכון משרדי וחומרים מתכלים. תל אביב",
+    "website": "http://www.mechanik.co.il/store/public/home.php",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mechkar",
+    "description": "מחשוב וסלולר. חדרה",
+    "website": "https://mechkar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mechubad",
+    "description": "המותג היהודי לעיצוב הבית. ירושלים",
+    "website": "https://www.mechubad.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MediaShop",
+    "description": "מחשבים, ציוד היקפי, מדיות ומוצרים מתכלים. גן חיים",
+    "website": "https://www.mediashop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Medic-Center-Sport",
+    "description": "מוצרי בריאות וספורט. נתניה",
+    "website": "https://medic-center-sport.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Medicon",
+    "description": "קוראי ספרים אלקטרוניים. רחובות",
+    "website": "http://www.medicon.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Medic-W",
+    "description": "מכשור רפואי וציוד לגיל השלישי. ראשון לציון",
+    "website": "https://www.medic-w.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MediLine",
+    "description": "שיווק ואספקת מוצרים, כלים וציוד למגזרים המוסדיים והעסקיים. בית שמש",
+    "website": "https://mediline.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Medi-Pharm",
+    "description": "בית מרקחת. חולון",
+    "website": "https://medi-pharm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MegaRider",
+    "description": "אופניים, ממונעים ואביזרי רכיבה. כפר סבא",
+    "website": "https://megarider.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MehirTov",
+    "description": "גאדג'טים ומתנות. חיפה",
+    "website": "http://www.mehirtov.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Meir-Hamair",
+    "description": "כלי עבודה, כלים סניטריים וברזים. תל אביב",
+    "website": "https://www.meirhamair.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Merital",
+    "description": "שיווק והתקנת מערכות טיהור מים, מיני בר ופתרונות למניעת אבנית. פריסה ארצית",
+    "website": "http://www.merital.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Merkaz-electronica-sheonim",
+    "description": "מוצרי אלקטרוניקה ושעונים. ירושלים",
+    "website": "https://www.merkaz-electronica-sheonim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Merkaz-Hasharon",
+    "description": "חומרי בניין, אינסטלציה, ברזים וכלים סניטריים. רמת השרון",
+    "website": "https://www.merkaz-hasharon.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mevugar",
+    "description": "מוצרי ספיגה ואביזרים לגיל השלישי. חולון",
+    "website": "https://www.mevugar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MGeves",
+    "description": "מוצרי בנייה, כלי עבודה ומוצרים לבית. אור יהודה",
+    "website": "http://mgeves.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MHO",
+    "description": "נעליים , מוצרים אורטופדיים וביגוד. ראשון לציון",
+    "website": "https://www.mho.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MINDX",
+    "description": "משחקי חשיבה, פאזלים ופנאי. גבעת אלה",
+    "website": "https://www.mindx.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mishkan-HaTchelet",
+    "description": "מוצרי יודאיקה. פריסה ארצית",
+    "website": "http://www.mishkan-hatchelet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mispar1",
+    "description": "הבית שלכם מתחיל כאן. ראשון לציון",
+    "website": "https://www.mispar1.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mizran",
+    "description": "מזרנים,מיטות, ספות נוער. טבריה",
+    "website": "http://www.mizran.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MMHashmal",
+    "description": "מוצרי חשמל. ירושלים",
+    "website": "https://www.mmhashmal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "M-Mobile",
+    "description": "סלולר ואביזרים ומעבדת תיקונים. תל אביב",
+    "website": "http://www.m-mobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MnmLtd",
+    "description": "כלי עבודה, גינון, הלבשה ואספקה טכנית. כפר סבא",
+    "website": "https://www.mnmltd.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MnmShop",
+    "description": "שעונים ותכשיטים. תל אביב",
+    "website": "https://www.mnmshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MobileLand",
+    "description": "סלולאר ואביזרים. הרצליה",
+    "website": "https://mobileland.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MobileOnline",
+    "description": "סלולר ואביזרים. רמת גן",
+    "website": "https://mobileonline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mobile-Phone-Eilat",
+    "description": "מכשירים ואביזרי סלולאר. אילת",
+    "website": "http://www.mobile-phone-eilat.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MobilePoint",
+    "description": "סלולאר ומעבדה. גבעת שמואל",
+    "website": "http://mobilepoint.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mobile-Shop",
+    "description": "אתר קנייה חכמה - סלולר, מוצרי חשמל. נהריה",
+    "website": "https://www.mobile-shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MobileStyleOno",
+    "description": "סלולאר ואביזרים. קרית אונו",
+    "website": "https://www.mobilestyleono.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MobilityPower",
+    "description": "קלנועיות איכות מאנגליה. ראשון לציון",
+    "website": "https://www.mobilitypower.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "money",
+    "description": "סמארטפונים ואביזרים. ראשון לציון",
+    "website": "https://money.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Morse-PC",
+    "description": "חנות וירטואלית למחשבים וציוד היקפי. ירושלים",
+    "website": "http://www.morse-pc.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MotorixBike",
+    "description": "אופניים חשמליים וממונעים לילדים. קדימה צורן",
+    "website": "http://motorixbike.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MozesPhone",
+    "description": "סלולאר, מחשבים וגיימינג. פתח תקווה",
+    "website": "https://www.mozesphone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MRGan",
+    "description": "ציוד אוורור וחימום מקצועי. כפר קאסם",
+    "website": "http://www.mrgan.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MSapir",
+    "description": "מזגנים. רמת גן",
+    "website": "https://www.msapir.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Multi-Garden",
+    "description": "יבוא ושיווק ריהוט ומוצרים לגן. בית שאן",
+    "website": "https://multi-garden.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MultiStore",
+    "description": "מוצרי חשמל, מולטימדיה וגיימינג. אשקלון",
+    "website": "https://multistore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MusicZol",
+    "description": "כלי נגינה. תל אביב",
+    "website": "https://www.musiczol.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MyBambino",
+    "description": "צעצועים , מכשירי כתיבה ומתנות. ירושלים",
+    "website": "https://www.mybambino.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MyFriend",
+    "description": "מזון וציוד לבעלי חיים. רמלה",
+    "website": "https://myfriend.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MyGan",
+    "description": "מוצרי גן ונוי. שדה יצחק",
+    "website": "https://mygan.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MyPerfume",
+    "description": "רשת חנויות בישום. פריסה ארצית",
+    "website": "https://www.myperfume.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NatiVeran",
+    "description": "קרמיקה וכליים סניטריים. ראשון לציון",
+    "website": "https://www.nativeran.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Negev-New",
+    "description": "פתרונות עיצוביים כוללים לבנייה ולשיפוץ. פריסה ארצית",
+    "website": "https://www.negev-new.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NesherMobile",
+    "description": "אביזרי סלולר. ירושלים",
+    "website": "https://www.myperfume.co.il/https://www.nativeran.co.il/https://www.negev-new.co.il/https://www.nesiha.co.il/https://www.netoneto.co.il/http://www.newhorizon.co.il/http://www.newking.co.il/https://newsale.co.il/https://nextech.co.il/https://www.next-pro.co.il/https://nglltd.com/https://www.ninja-polo.com/https://shop.nitaim.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Nesiha",
+    "description": "מוצרי טקסטיל. פתח תקווה",
+    "website": "https://www.nesiha.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NetoNeto",
+    "description": "מוצרי חשמל ואלקטרוניקה. פריסה ארצית",
+    "website": "https://www.netoneto.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NewHorizon",
+    "description": "מוצרים לאורח חיים בריא. נתניה",
+    "website": "http://www.newhorizon.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NewKing",
+    "description": "מוצרי חשמל ואלקטרוניקה. חולון",
+    "website": "http://www.newking.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NewSale",
+    "description": "סלולר ומוצרי חשמל. מודיעין",
+    "website": "https://newsale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Nextech",
+    "description": "מוצרי מולטימדיה וסלולר. פתח תקווה",
+    "website": "https://nextech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Next-Pro",
+    "description": "ציוד סאונד ונגינה. כפר סבא",
+    "website": "https://www.next-pro.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NGLltd",
+    "description": "הופכים את הטבע לבית. ניצני עוז",
+    "website": "https://nglltd.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ninja-Polo",
+    "description": "שעונים ותכשיטים. תל אביב",
+    "website": "https://www.ninja-polo.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Nitaim",
+    "description": "מוצרי עזרה ראשונה. תל אביב",
+    "website": "https://shop.nitaim.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NMM",
+    "description": "חנות יודאיקה ומפעל לרקמה. ירושלים",
+    "website": "http://judaica4you.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "noknok",
+    "description": "חשמל, אלקטרוניקה ומוצרים לבית. יהוד",
+    "website": "https://www.noknok.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NokOut",
+    "description": "מגוון מוצרי חשמל ואלקטרוניקה. מעלה אדומים",
+    "website": "http://www.nokout.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "No-Risk",
+    "description": "אופניים וקורקינטים חשמליים. תל אביב",
+    "website": "http://www.no-risk.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Oded-Electronics",
+    "description": "מוצרי מתח נמוך. תל אביב",
+    "website": "http://www.oded-electronics.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OfekPC",
+    "description": "מחשבים וציוד היקפי ,קונסולות משחק. לוד",
+    "website": "https://ofekpc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OfficePro",
+    "description": "תקשורת ומחשוב. פריסה ארצית",
+    "website": "https://www.officepro.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Officer",
+    "description": "חנות מוצרים למשרד. מודיעין",
+    "website": "http://www.officer.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OfnoCenter",
+    "description": "אופנועים וציוד היקפי. פריסה ארצית",
+    "website": "https://ofnocenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OlamHamaim",
+    "description": "בר מים    לבית ולמשרד. טבריה",
+    "website": "http://www.olamhamaim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OMC1",
+    "description": "סלולאר ומחשבים. קרית שמונה",
+    "website": "https://www.omc1.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Online-Shop",
+    "description": "מחשבים וציוד היקפי. חולון",
+    "website": "http://www.online-shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OnyxBoox",
+    "description": "קוראי ספרים אלקטרוניים. חיפה",
+    "website": "https://onyxboox.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "O-Pharm",
+    "description": "מוצרי בריאות ותרופות. תל אביב",
+    "website": "http://www.o-pharm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Optistore",
+    "description": "אופטיקה. פריסה ארצית",
+    "website": "http://optistore.net/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OrelPhone",
+    "description": "סלולאר ואביזרים. ראשון לציון",
+    "website": "https://orelphone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ORPC",
+    "description": "מחשבים וציוד היקפי ואלקטרוניקה. רמת גן",
+    "website": "https://www.orpc.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Orsale",
+    "description": "מוצרי חשמל. קרית חיים",
+    "website": "https://orsale.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OskarLtd",
+    "description": "ציוד ומוצרי צילום. רמת גן",
+    "website": "https://oskar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OutletIL",
+    "description": ". אשקלון",
+    "website": "https://outletil.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "OutOfTheBox",
+    "description": "מתנות וגאדג'טים. בני ברק",
+    "website": "https://www.out-of-the-box.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ovali",
+    "description": "מכשירים חכמים לנקיון הבית. פריסה ארצית",
+    "website": "https://ovali.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PalmatMotors",
+    "description": "אביזרים לחלונות ודלתות אלומיניום. יד בנימין",
+    "website": "https://palmatmotors.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PalmNet",
+    "description": "סלולר • קונסולות משחק • מחשבים. אור עקיבא",
+    "website": "https://www.palmnet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PanelIl",
+    "description": "פתרונות בניה ואחסון. גבעת כ\"ח",
+    "website": "http://panelil.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PascalShop",
+    "description": "מחשבים וציוד היקפי. גבעתיים",
+    "website": "https://pascalshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Passim",
+    "description": "פינות זולה ציליות ים וערסלים. גאולים",
+    "website": "https://www.passim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "pc365",
+    "description": "מחשבים וציוד היקפי. רחובות",
+    "website": "http://www.pc365.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Pc4You",
+    "description": "מחשבים וציוד אודיו וידאו. הרצליה",
+    "website": "http://www.pc4you.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PCcenter",
+    "description": "חנות למחשבים וציוד היקפי. ראשון לציון",
+    "website": "https://www.pccenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PCIL",
+    "description": "מחשבים ותקשורת. פתח תקווה",
+    "website": "https://pcil.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PCIT",
+    "description": "מחשוב ואלקטרוניקה. באר שבע",
+    "website": "http://www.pcit.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PCMarket",
+    "description": "מחשבים וציוד היקפי. ראש העין",
+    "website": "https://www.pcmarket.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Pc-Online",
+    "description": "מחשבים שרתים וציוד היקפי. פתח תקווה",
+    "website": "https://www.pc-online.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PcStock",
+    "description": "מחשבים וציוד מחשבים. פתח תקווה",
+    "website": "https://www.pcstock.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PenPall",
+    "description": "מיכון משרדי ומכשירי חשמל. ראשון לציון",
+    "website": "https://penpall.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Perfumex",
+    "description": "בשמים וקוסמטיקה. רמת גן",
+    "website": "https://perfumex.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PeryLtd",
+    "description": "אספקה טכנית. בני ברק",
+    "website": "https://www.peryltd.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PetCall",
+    "description": "מזון וציוד לחיות מחמד. הרצליה",
+    "website": "http://www.petcall.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PetPlanet",
+    "description": "מזון וציוד לחיות המחמד. עפולה",
+    "website": "https://petplanet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Petrons",
+    "description": "מזון ואבירים לחיות מחמד. אום אל פחם",
+    "website": "https://www.petrons.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PHA",
+    "description": "פתרונות מיקרו אקלים רב עונתיים. נתניה",
+    "website": "https://www.pha.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PharmaShops",
+    "description": "מוצרי הגיל השלישי. הוד השרון",
+    "website": "https://www.pharmashops.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PhoneTape",
+    "description": "תקשורת קווית ואלקטרוניקה חכמה. תל אביב",
+    "website": "https://www.phonetape.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Phonex",
+    "description": "מעבדת סלולר מכירה ואביזרים. תל אביב",
+    "website": "https://phonex.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PhotoNegba",
+    "description": "חנות צילום ופיתוח תמונות משנת 1975. רמת גן",
+    "website": "http://www.photonegba.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PianoHouse",
+    "description": "חנות כלי נגינה. בני ברק",
+    "website": "https://pianohouse.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Pichefkes",
+    "description": "גאדג'טים לבית. תל אביב",
+    "website": "http://www.pichefkes.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PisgaShop",
+    "description": "מוצרי חשמל ואלקטרוניקה לבית. ראש העין",
+    "website": "https://www.pisga-shop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Playa",
+    "description": "פתרונות הצללה, פתרונות קירוי, ומוצרים שונים לגינה. אחיטוב",
+    "website": "https://www.playa.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Play-Smart",
+    "description": "מוצרים חינוכיים. רחובות",
+    "website": "https://play-smart.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Polimil",
+    "description": "מוצרים ופתרונות לזיהוי בקרה ואבטחה. פתח תקווה",
+    "website": "https://polimil.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Printec",
+    "description": "ציוד משרדי. ראשון לציון",
+    "website": "https://www.printec.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PrinterDeal",
+    "description": "ציוד משרדי,מולטימדיה,מוצרי חשמל. כפר חב\"ד",
+    "website": "https://www.printerdeal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PrintNgo",
+    "description": "פתרונות הדפסה, מחשוב וציוד משרדי. תל אביב",
+    "website": "https://printngo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Print-Up",
+    "description": "מדפסות, פקסים וציוד היקפי. ראשון לציון",
+    "website": "https://www.print-up.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ProfitSport",
+    "description": "פתרונות רפואיים לעוסקים בספורט. אור יהודה",
+    "website": "https://www.profitsport.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Projector-Audio",
+    "description": "ציוד הגברה, מקרנים, כלי נגינה. פריסה ארצית",
+    "website": "http://www.projector-audio.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ProRunner",
+    "description": "ציוד ספורט וריצה. בני ברק",
+    "website": "https://www.prorunner.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Protechstore",
+    "description": "ציוד בטיחות, השרדות וציוד הטכנולוגי לתעשייה ולפרטיים. ישרש",
+    "website": "http://protechstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Pumba",
+    "description": "אופניים חשמליים וקורקינטים. תל אביב",
+    "website": "https://www.pumba.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Radio-Electric",
+    "description": "מוצרי חשמל אלקטרוניקה ותקשורת. פריסה ארצית",
+    "website": "http://www.rde.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RakHashmal",
+    "description": "מוצרי חשמל. ראש העין",
+    "website": "https://www.rakhashmal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ramos",
+    "description": "ריהוט. אחיטוב",
+    "website": "https://www.ramos.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rav-Hevel",
+    "description": "מתלה כביסה. רמלה",
+    "website": "http://www.rav-hevel.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RedMobile",
+    "description": "תיקוני סלולר. חולון",
+    "website": "https://redmobile.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Refaeli",
+    "description": "רשת חנויות מוצרי חשמל ואלקטרוניקה. פריסה ארצית",
+    "website": "http://refaeli.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RegaimShop",
+    "description": "שעונים תכשיטים מתנות חריטה במקום. נס ציונה",
+    "website": "https://regaimshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rikotek",
+    "description": "פתרונות הדפסה, מחשוב ותקשורת. אשקלון",
+    "website": "https://rikotek.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RingMobile",
+    "description": "תיקון סלולאר. תל אביב",
+    "website": "https://ringmobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "R-K",
+    "description": "מכונות תפירה. תל אביב",
+    "website": "http://www.r-k.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RockPhonic",
+    "description": "כלי נגינה, ציוד הגברה ותאורה. ראשון לציון",
+    "website": "https://www.rockphonic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rocky-Sport",
+    "description": "חנות מוצרי ספורט. ראשון לציון",
+    "website": "https://www.rocky-sport.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rokach",
+    "description": "תנורי חימום. נוב",
+    "website": "https://www.rokach.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RollingStoned",
+    "description": "מכשירי אידוי ואביזרי עישון. תל אביב",
+    "website": "https://www.rollingstoned.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RomsRoom",
+    "description": "צעצועים ומשחקי ילדים. רמת השרון",
+    "website": "http://www.romsroom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ronbi",
+    "description": "מוצרי אודיו וציוד היקפי למחשב. רחובות",
+    "website": "http://www.ronbi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ronix",
+    "description": "מוצרי אלקטרוניקה ושכפול מפתחות. פתח תקווה",
+    "website": "https://www.ronix.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rosh-Group",
+    "description": "ציוד ריגול. ראשון לציון",
+    "website": "https://rosh-group.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rozenfeld",
+    "description": "מוצרים לבית. פתח תקווה",
+    "website": "https://www.rozenfeld.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "RTouch",
+    "description": "מעבדת סלולר. גני תקווה",
+    "website": "https://www.rtouch.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Rudi",
+    "description": "ארנקים תיקים מזוודות. תל אביב",
+    "website": "https://www.rudi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Runners",
+    "description": "אביזרי ספורט וכושר. חיפה",
+    "website": "http://www.runners.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Runner-Sys",
+    "description": "מחשבים סלולר ואבטחה. רמת גן",
+    "website": "https://www.runner-sys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SafeCenter",
+    "description": "כספות. תל אביב",
+    "website": "http://www.safecenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Safe-eBuy",
+    "description": "מגוון מוצרים מתקדמים. רמת גן",
+    "website": "http://www.safe-ebuy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Safes",
+    "description": "כספות. אודים",
+    "website": "http://www.safes.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sahek-Ota",
+    "description": "צעצועים ומשחקים ממותגים, ומוצרים עונתיים. צומת בילו",
+    "website": "https://www.sahek-ota.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SaleCenter",
+    "description": "חשמל. רמת גן",
+    "website": "https://www.salecenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SalePc",
+    "description": "מחשבים, ציוד היקפי, וסלולר. תל אביב",
+    "website": "https://salepc.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SanCenter",
+    "description": "חשמל וסטריאו משנת 1986. תל אביב",
+    "website": "http://sancenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Santur",
+    "description": "כלי נגינה אתניים: עוד, קאנון ועוד. ירושלים",
+    "website": "https://santur.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SatSigma",
+    "description": "מצלמות אבטחה צלחות לווין ואנטנות. תל אביב",
+    "website": "https://www.satsigma.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SBaby",
+    "description": "מוצרי תינוקות וילדים. כל הארץ",
+    "website": "https://www.sbaby.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sbe-Energy",
+    "description": "ייצור ומכירת סוללות לתחבורה הקלה בישראל. חולון",
+    "website": "https://www.sbe-energy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Scoot",
+    "description": "קורקינטים ואביזרים. תל אביב",
+    "website": "https://scoot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Seapro",
+    "description": "סירות וקיאקים וציוד רכב וקמפינג. חולון",
+    "website": "https://seapro.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SecureGroup",
+    "description": "מערכות אבטחה ומיגון. תל אביב",
+    "website": "https://www.securegroup.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "segafredosystem",
+    "description": "קפה ומוצרים . קדימה צורן",
+    "website": "https://segafredosystem.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Seifer",
+    "description": "מוצרים לבית ולבניה. נתניה",
+    "website": "http://www.seifer.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Service-Window",
+    "description": "פרזול לחלונות ודלתות אלומיניום. כפר יונה",
+    "website": "http://www.service-window.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SexPlanet",
+    "description": "אביזרי מין ממיטב המותגים המובילים. תל אביב",
+    "website": "http://sex-planet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SexyShop",
+    "description": "למבוגרים בלבד. תל אביב",
+    "website": "https://sexyshop.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SFO",
+    "description": "ציוד צילום מקצועי. חולון",
+    "website": "https://www.sfo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SGnovelty",
+    "description": "תאורה סולארית, מצלמות אבטחה וגדג'טים. נורדיה",
+    "website": "https://www.sgnovelty.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Shalter",
+    "description": "עודפי מוצרי חשמל ביתיים. כפר סבא",
+    "website": "http://www.shalter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SharonR",
+    "description": "ציוד הגברה וכלי נגינה. ירושלים",
+    "website": "https://www.sharonr.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Shazar",
+    "description": "אספקה טכנית וכלי עבודה. חיפה",
+    "website": "http://shazartech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Shilat-Watches",
+    "description": "שעונים ותכשיטים. פריסה ארצית",
+    "website": "http://www.shilat-watches.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShipShop",
+    "description": "פנאי ואלקטרוניקה. שדה ורבורג",
+    "website": "https://shipshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShisharTech",
+    "description": "מדפסות, דיו , תמיכה במחשבים.. כפר סבא",
+    "website": "https://shishar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShivookYashir",
+    "description": "ריהוט גינה גרילי גז  מוצרי כתר. גבעת כ\"ח",
+    "website": "https://www.shivookyashir.org/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Shmm",
+    "description": "מדפסות ,מגרסות, למינציה,ציוד למחשב. ראשון לציון",
+    "website": "http://www.shmm.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShopCall",
+    "description": "קניון מוצרים - טכנולוגיות מתקדמות. רעננה",
+    "website": "http://www.shopcall.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShopEilat",
+    "description": "מחשבים וסלולאר. אילת",
+    "website": "https://shopeilat.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShopiPet",
+    "description": "מזון וציוד לחיות מחמד. בצרה",
+    "website": "https://www.shopipet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Shopips",
+    "description": "מוצרי חשמל,מדפסות,מחשבים, סלולר. מישור אדומים",
+    "website": "https://www.shopips.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShopKli",
+    "description": "כלי עבודה. יבנה",
+    "website": "https://www.shopkli.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShtiBay",
+    "description": "מוצרים לבית ולגן. אחיטוב",
+    "website": "https://www.shtibay.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShukHashmal",
+    "description": "מוצרי חשמל. כפר יונה",
+    "website": "https://shukhashmal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Signal-Audio",
+    "description": "ציוד הגברה, די ג'יי, כלי נגינה.. תל אביב",
+    "website": "https://www.signal-audio.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Simplybibo",
+    "description": "צעצועים ומוצרי תינוקות. ירכא",
+    "website": "https://simplybibo.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SinaiStore",
+    "description": "כלי עבודה וחומרי בניין. תל אביב",
+    "website": "https://www.sinaistore.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Singer4U",
+    "description": "מכונות תפירה לבית ולתעשייה. תל אביב",
+    "website": "http://www.singer4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sitonai",
+    "description": "חשמל ואלקטרוניקה. חיפה",
+    "website": "https://www.sitonai.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sleeperz",
+    "description": "ריהוט. תל אביב",
+    "website": "http://www.sleeperz.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sleep-In",
+    "description": "מזרונים ספות מיטות כורסאות ארונות. ראשון לציון",
+    "website": "https://sleep-in-r.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SleepNet",
+    "description": "חנות רהיטים- מיטות, כורסאות, חדרי שינה ועוד. קרית שמונה",
+    "website": "http://www.sleepnet.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SlimPrice",
+    "description": "קניון מוצרים. נתניה",
+    "website": "http://www.slimprice.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "smartcase",
+    "description": "אביזרים לשעונים חכמים וסלולר. חיפה",
+    "website": "https://www.smartcase.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SmartcomStore",
+    "description": "סלולר ואביזרים. קרית ים",
+    "website": "https://smartcomstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Smart-Deal",
+    "description": "חשמל ואלקטרוניקה. שפרעם",
+    "website": "https://smart-deal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Smartech",
+    "description": "מעבדת סלולאר. ראשון לציון",
+    "website": "https://smartech.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SmartLab",
+    "description": "מעבדת סלולר. ראשון לציון",
+    "website": "https://smartlab.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SmartMoveTLV",
+    "description": "אופניים חשמליים, קורקינטים ואביזרים. תל אביב",
+    "website": "https://smartmovetlv.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Smart-Toys",
+    "description": "צעצועים חכמים ורחפנים. כרמיאל",
+    "website": "http://www.smart-toys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "S-Medic",
+    "description": "ציוד רפואי ועזרה ראשונה. פתח תקווה",
+    "website": "https://s-medic.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SmilePhone",
+    "description": "טלפונים סלולרים ומעבדת תיקונים. תל אביב",
+    "website": "https://www.smilephone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SoBaby",
+    "description": "צעצועים וחדרי תינוקות. שפרעם",
+    "website": "https://www.sobaby.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SoferAvi",
+    "description": "חשמל ואלקטרוניקה. פריסה ארצית",
+    "website": "https://www.soferavi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sollan",
+    "description": "חנות מחשבים ואלקטרוניקה מקוונת. ראשון לציון",
+    "website": "http://www.sollan.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sonic-Air",
+    "description": ". מזור",
+    "website": "https://sonic-air.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Spa-Store",
+    "description": "אביזרים לג'קוזי וספא. בני עטרות",
+    "website": "http://www.spa-store.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Speed4U",
+    "description": "מחשבים, ניידים וציוד היקפי וסלולר. תל אביב",
+    "website": "http://www.speed4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SpeedOfSound",
+    "description": "אוזניות ומוצרי אלקטרוניקה. תל אביב",
+    "website": "http://www.speedofsound.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SportCenter",
+    "description": "בריכות ושולחנות משחק. תל אביב",
+    "website": "https://www.sportcenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sportcom",
+    "description": "ציוד ספורט ומכשירי כושר. חולון",
+    "website": "http://sportcom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sporty",
+    "description": "ספורט, פנאי וגאדג'טים. חולון",
+    "website": "https://www.sporty.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sroolik",
+    "description": "מוצרים לבית ולגן. בית חנן",
+    "website": "http://www.sroolik.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "StarShop",
+    "description": "אביזרי פנאי, לבית ולגן. מושב פורת",
+    "website": "http://www.sollan.co.ilhttps://sonic-air.co.il/http://www.spa-store.co.il/http://www.speed4u.co.il/http://www.speedofsound.co.il/https://www.sportcenter.co.il/http://sportcom.co.il/https://www.sporty.co.il/http://www.sroolik.co.il/https://start-home.co.il/http://stender.center/https://www.stereoshop.co.il/https://storemobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "start-home",
+    "description": "מוצרים לבית ולגינה. עץ אפרים",
+    "website": "https://start-home.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Stender.Center",
+    "description": "ריהוט לבתי כנסת ולבתים פרטיים. ירושלים",
+    "website": "http://stender.center/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "StereoShop",
+    "description": "מערכות קולנוע ביתיות. חיפה",
+    "website": "https://www.stereoshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "StoreMobile",
+    "description": "אלקטרוניקה וגאדג'טים. נהריה",
+    "website": "https://storemobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "StudioLand",
+    "description": "צילום ואביזרים. רמת השרון",
+    "website": "https://www.studioland.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "StudioPhone",
+    "description": "מעבדת סלולאר. רמת השרון",
+    "website": "https://studiophone.zapshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SukkotHadar",
+    "description": "סוכות ואביזרים. פריסה ארצית",
+    "website": "https://www.sukkothadar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SuperElectric",
+    "description": "מוצרי חשמל. פריסה ארצית",
+    "website": "http://www.superelectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SuperLang",
+    "description": "כלי עבודה, גינון ואביזרים. בית נקופה",
+    "website": "http://superlang.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SuperLine",
+    "description": "גנרטורים ומכונות שטיפה בלחץ. ירושלים",
+    "website": "https://superline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SuperPrice",
+    "description": "מחשבים ניידים, נייחים וציוד היקפי. פתח תקווה",
+    "website": "https://superprice.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SwissBag",
+    "description": "מזוודות ותיקים. ירושלים",
+    "website": "https://www.swissbag.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sy-Trade",
+    "description": "מערכות סינון מים. חיפה",
+    "website": "https://sy-trade.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SZM",
+    "description": "מטבח מוסדי. ראש העין",
+    "website": "http://www.szm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TaxFreeBeauty",
+    "description": "בשמים לגברים ונשים. יהוד",
+    "website": "https://taxfreebeautyvip.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TcheletMordechai",
+    "description": "תשמישי קדושה ומוצרי סת\"ם. גוש עציון",
+    "website": "https://www.tcheletmordechai.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tdsd",
+    "description": "מחשבים וחומרה, מצלמות אבטחה וסוללות. חולון",
+    "website": "http://www.tdsd.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TechMarket",
+    "description": "שיווק מחשבים וציוד היקפי. נווה אילן",
+    "website": "https://www.techmarket.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TechnoHome",
+    "description": "מוצרי חשמל ולבית. רמת גן",
+    "website": "https://technohome.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TechnoShlomo",
+    "description": "ציוד טכני לבית ולגן , גרילים. כרמיאל",
+    "website": "https://www.technoshlomo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TechToys",
+    "description": "סלולר • קונסולות משחק • מחשבים. אור עקיבא",
+    "website": "https://www.techtoys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Telyacom",
+    "description": "תקשורת קווית, אלחוטית ומכשירי קשר. בני ברק",
+    "website": "http://www.telyacom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Teva-Bair",
+    "description": "טבע ובריאות. חולון",
+    "website": "http://teva-bair.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Teva-Call",
+    "description": "מוצרי טבע. רמת גן",
+    "website": "https://www.teva-call.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tfira",
+    "description": "מבחר מכונות תפירה. חדרה",
+    "website": "http://www.tfira.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ThermoStar",
+    "description": "מיזוג אויר. כרמיאל",
+    "website": "https://www.thermostar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TheTurtle",
+    "description": "מנשאי אופניים , גגונים לרכב. אזור",
+    "website": "http://www.theturtle.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ThreeSixty",
+    "description": "אלקטרוניקה וחשמל. תל אביב",
+    "website": "http://www.threesixty.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Time2Buy",
+    "description": "חנות מרעננה למכירת מוצרי חשמל בתים. רעננה",
+    "website": "http://www.time2buy.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TimeCenter",
+    "description": "שעוני יד מבית קסיו. פתח תקווה",
+    "website": "http://www.timecenter.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TimeSpot",
+    "description": "יבוא שיווק והפצה. גדרה",
+    "website": "https://timespot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tipot-Teva",
+    "description": "אביזרים לגינה. בת חפר",
+    "website": "https://tipot-teva.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tirador",
+    "description": "פרזול לריהוט ולבניין. מודיעין",
+    "website": "https://www.tiradorhd.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TishlerStore",
+    "description": "מוצרים למטבח. תל אביב",
+    "website": "https://tishlerstore.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tlvmc",
+    "description": "מסחר דיגטלי -מוצרים לבית ומדיה. רמת גן",
+    "website": "http://www.tlvmc.co/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TMAudio",
+    "description": "סטריאו, קולנוע ביתי. הרצליה",
+    "website": "http://www.tmaudio.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TMS",
+    "description": "מחשבים, חומרה, תוכנה וציוד היקפי. אילת",
+    "website": "https://www.tms.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tomitot",
+    "description": "מזרונים ומיטות. כפר סבא",
+    "website": "http://www.tomitot.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TonerPlus",
+    "description": "טונרים, מדפסות וציוד משרדי. תל אביב",
+    "website": "https://www.tonerplus.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Toner-Supply",
+    "description": "טונרים, מדפסות  ,סורקים ומגרסות. תל אביב",
+    "website": "http://www.toner-supply.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ToolsOnline",
+    "description": "כלי עבודה וציוד לתעשיה. פתח תקווה",
+    "website": "http://www.toolsonline.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TopCommerce",
+    "description": "ציוד ארגונומי למשרד ולבית. ראש העין",
+    "website": "https://topcommerce.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TopDeal",
+    "description": "אלקטרוניקה וחשמל. קרית ביאליק",
+    "website": "https://www.topdeal.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TopMobile",
+    "description": "סלולאר ואביזרים. נשר",
+    "website": "http://topmobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Totah",
+    "description": "ציוד קמפינג למטייל ולחייל. חולון",
+    "website": "http://www.totah.net/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TotalSport",
+    "description": "מבחר ציוד ספורט. פתח תקווה",
+    "website": "http://www.totalsport.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TouchStore",
+    "description": "סלולר,מעבדה, אביזרים, גיימינג ומשחקים. פריסה ארצית",
+    "website": "https://touchstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ToyHouse",
+    "description": "מגוון צעצועים לילדים. ירושלים",
+    "website": "http://www.toyhouse.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Toyland",
+    "description": "מוצרי ילדים ותינוקות. כפר סבא",
+    "website": "http://www.toyland.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ToyMarket",
+    "description": "צעצועים. יבנה",
+    "website": "https://toymarket.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Toys4Fun",
+    "description": "למבוגרים בלבד. אשדוד",
+    "website": "https://www.toys4fun.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ToysAndMore",
+    "description": "צעצועים ומוצרים לילדים ועוד. ראש העין",
+    "website": "http://www.toysandmore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "toys-empire",
+    "description": "צעצועים. הוד השרון",
+    "website": "https://www.toys-empire.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ToysToGo",
+    "description": "צעצועים ומשחקים לילדים. רמת השרון",
+    "website": "https://www.toystogo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Traklin",
+    "description": "מוצרי חשמל. חיפה",
+    "website": "https://www.traklin.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TravelTik",
+    "description": "תיקים ומזוודות. פתח תקווה",
+    "website": "http://traveltik.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Triple-S",
+    "description": "מוצרי הדפסה ומחשוב לבית ולמשרד. ראש העין",
+    "website": "http://www.triple-s.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tronics",
+    "description": "חנות מחשבים- תוכנה, חומרה ופתרונות מעשיים. תל אביב",
+    "website": "https://www.tronics.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TrumpetCall",
+    "description": "חצוצרות, טרומבונים ואביזרים נלווים. פתח תקווה",
+    "website": "https://www.trumpetcall.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tuki",
+    "description": "חנות למוצרי אלקטרוניקה לבית ולרכב. בני ברק",
+    "website": "https://tukielectric.konimbo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Turtle",
+    "description": "מוצרי הגברה. רמת גן",
+    "website": "http://www.turtle.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "TW4U",
+    "description": "חנות צעצועים לילדים. יבנה",
+    "website": "http://www.tw4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Ultra-Shop",
+    "description": "מחשוב ואלקטרוניקה. כוכב יאיר",
+    "website": "https://www.ultra-shop.store/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "UP-AC",
+    "description": "מזגנים. אשדוד",
+    "website": "http://www.up-ac.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Urbanico",
+    "description": "מכירת אופניים וקורקנטים חשמליים. תל אביב",
+    "website": "http://www.urbanico.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Usexport",
+    "description": "ריהוט משרדי. תל אביב",
+    "website": "http://www.usexport.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Venta",
+    "description": "ייצור, שיווק והפצת מוצרי אוורור. רמלה",
+    "website": "https://www.venta.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Vero-Cafe",
+    "description": "מכונות קפה ומוצרים. מעיליא",
+    "website": "https://www.vero-cafe.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Video",
+    "description": "מוצרי צילום ואלקטרוניקה . פתח תקווה",
+    "website": "https://video.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Vigor-Principalities",
+    "description": "תיקים, מזוודות, ארנקים ומתנות. ירושלים",
+    "website": "https://vigor-principalities.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "VineaGreen",
+    "description": "הידרופוניקה, קירות ירוקים ואדניות. כפר סבא",
+    "website": "https://www.vineagreen.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Vinopo",
+    "description": "מקררי יין. פתח תקווה",
+    "website": "http://www.vinopo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "VIPMobile",
+    "description": "אביזרים ומכשירי סלולאר. תל אביב",
+    "website": "http://vipmobile.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "VipSales",
+    "description": "מחשבים וציוד היקפי. ראשון לציון",
+    "website": "http://www.vipsales.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "VirtualChashmal",
+    "description": "מכשירי חשמל. בני ברק",
+    "website": "https://virtualshops.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "VMobile",
+    "description": "סלולאר וציוד היקפי. תל אביב",
+    "website": "https://www.vmobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WallaShops",
+    "description": "קניון מוצרים. כפר סבא",
+    "website": "https://www.wallashops.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Watch4U",
+    "description": "מכירת שעונים ותכשיטים. תל אביב",
+    "website": "https://watch4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WatchCenter",
+    "description": "שעוני יד. רחובות",
+    "website": "https://www.watchcenter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WatchStore",
+    "description": "חנות שעוני יוקרה ומעבדת תיקונים. ראשון לציון",
+    "website": "http://watchstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WaterFun",
+    "description": "יבוא ושיווק מוצרים לגינה. כנות",
+    "website": "http://www.waterfun.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WaterRower",
+    "description": "מכשירי אימון וכושר גופני. קיבוץ נען",
+    "website": "https://www.waterrower-il.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WaterStore",
+    "description": "מסננים ומוצרי לייף סטייל. ראשון לציון",
+    "website": "http://www.waterstore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WebPrice",
+    "description": "מחשוב ציוד היקפי והדפסה. נתניה",
+    "website": "https://www.webprice.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Weekend",
+    "description": "פורטל תיירות וצימרים. הרצליה",
+    "website": "http://www.weekend.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WeloveCoffee",
+    "description": "מכונות קפה ואביזרים. הרצליה",
+    "website": "http://welovecoffee.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WheelChairs",
+    "description": "מוצרים וציוד לגיל השלישי. כפר סבא",
+    "website": "https://www.wheelchairs.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Wheel-e",
+    "description": "קורקינטים ואופניים חשמליים. תל אביב",
+    "website": "https://wheel-e.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WineBar",
+    "description": "מקררי יין. חולון",
+    "website": "http://www.winebar.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WinPrice",
+    "description": "מחשבים,חשמל ואלקטרוניקה. כפר יונה",
+    "website": "http://www.winprice.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WorKimhi",
+    "description": "אספקה טכנית. באר שבע",
+    "website": "https://www.workimhi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WorldShop",
+    "description": "מיגון ואבטחה - ציוד ריגול. פריסה ארצית",
+    "website": "http://www.worldshop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WTL",
+    "description": "מוצרי בריאות ובית. כרמיאל",
+    "website": "https://www.wtl.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "xBody",
+    "description": "תוספי תזונה לספורטאים. באר שבע",
+    "website": "http://www.xbody.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "XGaming",
+    "description": "קונסולות משחקים ומחשבים. חיפה",
+    "website": "https://www.xgaming.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Xiaoai",
+    "description": "מוצרי רפואה משלימה. חדרה",
+    "website": "https://www.xiaoai.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Xi-Mobility",
+    "description": "אופניים חשמליים. תל אביב",
+    "website": "https://xi-mobility.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "XiStore",
+    "description": "מוצרי שיאומי. פריסה ארצית",
+    "website": "https://www.xistore.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "XStation",
+    "description": "משחקים , קונסולות ומעבדה. פתח תקווה",
+    "website": "https://www.xstation.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "XWear",
+    "description": "ייבוא ושיווק מוצרי ספורט ולחימה. פריסה ארצית",
+    "website": "http://xwear.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Yacobson",
+    "description": "מוצרי ספיגה. נחלים",
+    "website": "https://www.yacobson.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Yahalom11",
+    "description": "ריהוט לבית, ארונות, ריהוט גן. פתח תקווה",
+    "website": "https://4545.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "YanaShop",
+    "description": "מוצרי חשמל. נצרת",
+    "website": "https://www.yanashop.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Yarid-B",
+    "description": "מוצרי חשמל. ביתר עילית",
+    "website": "http://www.yarid-b.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Yes-We-Sell",
+    "description": "מוצרי חשמל ואלקטרוניקה. עין צורים",
+    "website": "http://www.yes-we-sell.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "YHome",
+    "description": "ציוד קמפינג,הדברה,כלי מטבח,טמבוריה. פתח תקווה",
+    "website": "http://www.yhome.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Zanzibar4Pets",
+    "description": "ציוד ומזון בעלי חיים. כרמיאל",
+    "website": "https://www.zanzibar4pets.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ZBM",
+    "description": "מצלמות אבטחה וציוד היקפי. פריסה ארצית",
+    "website": "https://www.zbm.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Zeero",
+    "description": "מוצרי אנרגיה ירוקה. פתח תקווה",
+    "website": "https://zeero.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ZigZag2000",
+    "description": "מחשבים ואבטחה. יהוד",
+    "website": "https://www.zigzag2000.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ZolYoter",
+    "description": "חשמל , אלקטרוניקה ומחשבים. תל אביב",
+    "website": "https://www.zolyoter.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ZurMarket",
+    "description": "מוצרי הדברה ביתיים, מוצרי הדברה וטיפוח לבע\"ח, פתרונות ולחקלאות ודישון. תל אביב",
+    "website": "https://zurmarket.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Zuzik",
+    "description": "מוצרי תינוקות וילדים. חיפה",
+    "website": "https://www.zuzik.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Z-Zol",
+    "description": "מכשירי כושר ובריכות INTEX. חולון",
+    "website": "https://www.z-zol.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "אלמגור",
+    "description": "סלולאר וציוד היקפי. רמת גן",
+    "website": "https://www.almagorcom.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "בוקצר",
+    "description": "ריהוט לבית ולמשרד. גבעת זאב",
+    "website": "https://bukchair.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "גלגלי המגן",
+    "description": ". שילת",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "דנלר",
+    "description": ". תל אביב",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "היפר צמיג",
+    "description": ". פתח תקווה",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט – אשדוד",
+    "description": ". אשדוד",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט – ירושלים",
+    "description": ". ירושלים",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -אשקלון",
+    "description": ". אשקלון",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -בית שמש",
+    "description": ". בית שמש",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -חדרה",
+    "description": ". חדרה",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -חיפה",
+    "description": ". חיפה",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -טבריה",
+    "description": ". טבריה",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -נתניה",
+    "description": ". נתניה",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -ראש העין\n",
+    "description": ". ראש העין",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -ראשון לציון מזרח",
+    "description": ". ראשון לציון",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -ראשון לציון מערב",
+    "description": ". ראשון לציון",
+    "website": "",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -רחובות",
+    "description": ". רחובות",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט -רעננה",
+    "description": ". רעננה",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיירנט-רמלה",
+    "description": ". רמלה",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "טיפ טופ  חולון",
+    "description": ". חולון",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "י.ג המכוון",
+    "description": ". ירושלים",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "מחסני צמיגים",
+    "description": ". מודיעין",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "מלך הרכב",
+    "description": ". כפר ורדים",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "סופר",
+    "description": "מוצרי חשמל. רחובות",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי אביעד",
+    "description": ". קרית גת",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי בועז",
+    "description": ". בת ים",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי גנו",
+    "description": ". באר שבע",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי הצטלבות תבור",
+    "description": ". חיפה",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי מלי",
+    "description": ". נתניה",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי נעים זיתוני בת ים",
+    "description": ". בת ים",
+    "website": "http://www.סופר.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי נעים זיתוני גבעתיים",
+    "description": ". גבעתיים",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי ספייס קאר",
+    "description": ". בת ים",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי קזנטיני",
+    "description": ". תל אביב",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי שבתאי",
+    "description": ". הוד השרון",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי שואף",
+    "description": ". רמת גן",
+    "website": "https://tires4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "צמיגי שחר",
+    "description": ". בני ברק",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "שירות לצמיגים",
+    "description": ". תל אביב",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "All-In-Home",
+    "description": "אביזרים לבית ולגן. כפר קאסם",
+    "website": "https://www.all-in-home.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Brira",
+    "description": "ריהוט ביתי רב תכליתי. פרדס חנה",
+    "website": "https://www.brira.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "BrownField",
+    "description": "מזון וציוד לבעלי חיים. תל אביב",
+    "website": "http://brownfield.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "CrazyEdi",
+    "description": "חנות לסטריאו וקולנוע ביתי. כפר סבא",
+    "website": "https://crazyedi.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Davron",
+    "description": "מוצרים לתינוקות. ג'וליס",
+    "website": "https://www.davron.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "DNG Solution",
+    "description": "סלולר וחשמל. פתח תקווה",
+    "website": "https://tires4u.co.il/https://www.all-in-home.co.il/https://www.brira.co.il/http://brownfield.co.il/https://crazyedi.co.il/https://www.davron.co.il/https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dynamica",
+    "description": "אביזרים וטלפונים סלולריים. פריסה ארצית",
+    "website": "https://www.dynamica.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Gamby",
+    "description": "אלקטרוניקה , טונרים , מחשב , משרדי. פתח תקווה",
+    "website": "https://www.gamby.co.il/he/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Glam42",
+    "description": "קוסמטיקה וטיפוח. פתח תקווה",
+    "website": "https://glam42.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "GreenElectric",
+    "description": "מוצרי חשמל. בני ברק",
+    "website": "https://www.greenelectric.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "HyperCell",
+    "description": "מוצרי ספורט פנאי קמפינג והום סטייל. שילת",
+    "website": "https://hypercell.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Isratoys",
+    "description": "משחקי קופסא לילדים. ברקן",
+    "website": "https://www.isratoys.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mall4All",
+    "description": "מוצרי חשמל | ריהוט ועוד. חולון",
+    "website": "https://mall4all.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Marbo-Sport",
+    "description": "ציוד ספורט. חיפה",
+    "website": "https://marbo-sport.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Mashiach-tech",
+    "description": "כלי עבודה, לבית וקמפינג. אזור",
+    "website": "https://mashiach-tech-build.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Net-Com",
+    "description": "חנות ומעבדת מחשבים ,אלקרוניקה. ירושלים",
+    "website": "http://net-com.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "NofTech",
+    "description": "מחשבים וציוד היקפי. ירושלים",
+    "website": "https://noftech.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "PaynGo",
+    "description": "מוצרי חשמל ואלקטרוניקה. פריסה ארצית",
+    "website": "https://www.payngo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "ShopElectrons",
+    "description": "מכונות גילוח ותספורת ומכשירי הסרת שיער. פתח תקווה",
+    "website": "https://www.shopelectrons.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "StsMegaGroup",
+    "description": "סלולאר וגאדג'טים. אשקלון",
+    "website": "https://www.gamby.co.il/he/https://glam42.co.il/https://www.greenelectric.co.il/https://hypercell.co.il/https://www.isratoys.co.il/https://mall4all.co.il/https://marbo-sport.co.il/https://mashiach-tech-build.com/http://net-com.co.il/https://noftech.co.il/https://www.payngo.co.il/https://www.shopelectrons.co.il/http://www.tzabar-express.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Tzabar-Express",
+    "description": "קניון מוצרים. קרית ביאליק",
+    "website": "http://www.tzabar-express.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Uliwood",
+    "description": "ריהוט. קרית ביאליק",
+    "website": "https://uliwood.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Uzi-Toys",
+    "description": "צעצועי תינוקות וילדים. הרצליה",
+    "website": "https://uzi-toys.com/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "VoltStreet",
+    "description": "מוצרי חשמל וכלי בית. פתח תקווה",
+    "website": "http://voltstreet.konimbo.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "WhiteLabel",
+    "description": "ריהוט לבית. ראשון לציון",
+    "website": "https://www.white-label.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "XBay",
+    "description": "חשמל ואלקטרוניקה. ראשון לציון",
+    "website": "https://www.xbay.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Zerox",
+    "description": "אמבט וסניטריה. חיפה",
+    "website": "https://zerox.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Zol4U-il",
+    "description": "סלולר מחשבים טבלטים ועוד ... רמת גן",
+    "website": "https://www.zol4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Zoref",
+    "description": "מוצרי חשמל. בני ברק",
+    "website": "https://www.zoref.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "קאנטרי שיק",
+    "description": ". יפו",
+    "website": "ריהוט",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Al-Galgalim",
+    "description": "אבזור רכבים. רחובות",
+    "website": "https://www.al-galgalim.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Argaman4U",
+    "description": "גרילים וריהוט לבית ולחצר. נס ציונה",
+    "website": "http://argaman4u.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Diez",
+    "description": "כלי נגינה וציוד היקפי. ראשון לציון",
+    "website": "http://www.diez.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Dupen",
+    "description": "ריהוט וחדרי שינה. אזור",
+    "website": "http://www.dupen.co.il",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Lev-Hamisrad",
+    "description": "ציוד למשרד חותמות מוצרי פרסום ועוד. תל אביב",
+    "website": "https://www.lev-hamisrad.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "MusicWorld",
+    "description": "כלי נגינה ואלקטרוניקה. תל אביב",
+    "website": "https://www.musicworld.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Screen-Mobile",
+    "description": "אביזרים לסלולאר וטאבלטים. צפת",
+    "website": "https://screen-mobile.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "SimFreePhone",
+    "description": "טלפונים סלולרים מעבדת תיקונים. רמת גן",
+    "website": "https://www.simfreephone.co.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  },
+  {
+    "name": "Sink",
+    "description": "סניטריה לבית. אזור",
+    "website": "https://sink.org.il/",
+    "tier": null,
+    "chain": null,
+    "delivery_options": [],
+    "offers_same_day": null
+  }
+]
