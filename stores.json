@@ -37868,7 +37868,8 @@
       "categorisation": {
         "categories": [
           "sport",
-          "fashion"
+          "fashion",
+          "health_beauty"
         ],
         "brands": [],
         "official_importer": null,
@@ -37899,10 +37900,14 @@
         "rating": 3.0,
         "rating_count": 2,
         "categories_main_he": [
-          "טיפוח יופי ובריאות"
+          "טיפוח יופי ובריאות",
+          "מתנות ושונות"
         ],
         "categories_he": [
           "ספורט",
+          "אביזרי אופנה",
+          "טיפוח",
+          "אופנה ואביזרים",
           "ביגוד והנעלה",
           "הלבשה והנעלה"
         ],
@@ -49127,7 +49132,10 @@
           "appliances",
           "peripherals",
           "photography",
-          "fashion"
+          "fashion",
+          "mobile",
+          "accessories",
+          "security"
         ],
         "brands": [],
         "official_importer": null,
@@ -49161,6 +49169,7 @@
           "חשמל ואלקטרוניקה",
           "טיפוח יופי ובריאות",
           "לבית לגן ולמשרד",
+          "מחשבים ותוכנות",
           "מתנות ושונות",
           "רכב ואביזרים"
         ],
@@ -49172,16 +49181,21 @@
           "ריהוט וציוד לגן",
           "ציוד למשרד",
           "ספורט",
+          "תקשורת",
           "כלי עבודה",
           "ציוד למטבח",
           "ציוד הקפי",
           "ריהוט לבית",
+          "אביזרים ועזרים",
           "צילום",
+          "מיגון וריגול",
           "ניקיון גיהוץ וכביסה",
+          "אביזרי אופנה",
           "אופנה ואביזרים",
           "עיצוב הבית",
           "ביגוד והנעלה",
           "הלבשה והנעלה",
+          "מוצרי הגיינה",
           "כלים סניטריים",
           "קוסמטיקה",
           "איפור"
@@ -143507,7 +143521,6 @@
           "ציוד הקפי",
           "ריהוט לבית",
           "אביזרים ועזרים",
-          "צעצועים ומשחקים",
           "צילום",
           "מכשירים לטיפוח ובריאות",
           "ניקיון גיהוץ וכביסה",
@@ -196373,6 +196386,7 @@
           "ציוד היקפי",
           "כלי עבודה",
           "למטבח",
+          "ציוד למטבח",
           "ציוד הקפי",
           "ריהוט לבית",
           "צילום",
@@ -328974,13 +328988,21 @@
       "categorisation": {
         "categories": [
           "sport",
-          "health_beauty"
+          "health_beauty",
+          "home_garden",
+          "furniture",
+          "office",
+          "tools",
+          "gifts",
+          "fashion",
+          "kids_baby",
+          "auto"
         ],
         "brands": [],
         "official_importer": null,
         "official_importer_brand": [],
         "is_tech": false,
-        "categories_source": "description_keywords"
+        "categories_source": "zap_facet"
       },
       "policies": {
         "warranty": null,
@@ -329004,8 +329026,37 @@
         "name_zap": "מדיק סנטר (Medic-Center-Sport)",
         "rating": null,
         "rating_count": null,
-        "categories_main_he": [],
-        "categories_he": [],
+        "categories_main_he": [
+          "חשמל ואלקטרוניקה",
+          "טיפוח יופי ובריאות",
+          "ילדים",
+          "לבית לגן ולמשרד",
+          "מתנות ושונות"
+        ],
+        "categories_he": [
+          "שונות",
+          "לבית",
+          "בריאות",
+          "ריהוט וציוד לגן",
+          "ציוד למשרד",
+          "ספורט",
+          "כלי עבודה",
+          "ריהוט לבית",
+          "מתנות",
+          "אביזרי אופנה",
+          "טיפוח",
+          "תינוקות ופעוטות",
+          "ביגוד והנעלה",
+          "הלבשה והנעלה",
+          "טקסטיל",
+          "מוצרי הגיינה",
+          "קוסמטיקה",
+          "על גלגלים",
+          "איפור",
+          "צעצועים ומשחקים לחצר",
+          "עיסוי וספא",
+          "ציוד אימון וכושר"
+        ],
         "last_seen": "2026-11-20"
       }
     }
@@ -368179,13 +368230,30 @@
       },
       "categorisation": {
         "categories": [
-          "mobile"
+          "mobile",
+          "home_garden",
+          "health_beauty",
+          "tv_av",
+          "audio",
+          "office",
+          "sport",
+          "peripherals",
+          "tools",
+          "accessories",
+          "kids_baby",
+          "photography",
+          "security",
+          "appliances",
+          "fashion",
+          "computers",
+          "gaming",
+          "auto"
         ],
         "brands": [],
         "official_importer": null,
         "official_importer_brand": [],
         "is_tech": true,
-        "categories_source": "description_keywords"
+        "categories_source": "zap_facet"
       },
       "policies": {
         "warranty": null,
@@ -368209,8 +368277,39 @@
         "name_zap": "נשר אביזרי סלולר (NesherMobile)",
         "rating": 5.0,
         "rating_count": 2,
-        "categories_main_he": [],
-        "categories_he": [],
+        "categories_main_he": [
+          "חשמל ואלקטרוניקה",
+          "טיפוח יופי ובריאות",
+          "ילדים",
+          "לבית לגן ולמשרד",
+          "מחשבים ותוכנות",
+          "רכב ואביזרים"
+        ],
+        "categories_he": [
+          "שונות",
+          "לבית",
+          "בריאות",
+          "מערכות צפייה ושמע",
+          "ציוד למשרד",
+          "ספורט",
+          "תקשורת",
+          "ציוד היקפי",
+          "כלי עבודה",
+          "ציוד הקפי",
+          "אביזרים ועזרים",
+          "צעצועים ומשחקים",
+          "צילום",
+          "מכשירים לטיפוח ובריאות",
+          "מיגון וריגול",
+          "ניקיון גיהוץ וכביסה",
+          "ביגוד והנעלה",
+          "הלבשה והנעלה",
+          "תקשורת מחשבים",
+          "משחקי טלוויזיה",
+          "מחשבים",
+          "אחסון",
+          "סטריאו לרכב"
+        ],
         "last_seen": "2026-11-20"
       }
     }
@@ -430662,13 +430761,21 @@
       },
       "categorisation": {
         "categories": [
-          "sport"
+          "sport",
+          "camping_outdoor",
+          "health_beauty",
+          "mobile",
+          "appliances",
+          "home_garden",
+          "photography",
+          "fashion",
+          "pets"
         ],
         "brands": [],
         "official_importer": null,
         "official_importer_brand": [],
-        "is_tech": false,
-        "categories_source": "description_keywords"
+        "is_tech": true,
+        "categories_source": "zap_facet"
       },
       "policies": {
         "warranty": null,
@@ -430692,8 +430799,29 @@
         "name_zap": "פרו ראנר (ProRunner)",
         "rating": 0.0,
         "rating_count": 0,
-        "categories_main_he": [],
-        "categories_he": [],
+        "categories_main_he": [
+          "חשמל ואלקטרוניקה",
+          "טיפוח יופי ובריאות",
+          "לבית לגן ולמשרד",
+          "מתנות ושונות"
+        ],
+        "categories_he": [
+          "שונות",
+          "מחנאות וטיולים",
+          "בריאות",
+          "ספורט",
+          "תקשורת",
+          "למטבח",
+          "ציוד למטבח",
+          "צילום",
+          "אביזרי אופנה",
+          "אופנה ואביזרים",
+          "ביגוד והנעלה",
+          "הלבשה והנעלה",
+          "חיות מחמד",
+          "עיסוי וספא",
+          "ציוד אימון וכושר"
+        ],
         "last_seen": "2026-11-20"
       }
     }
@@ -459480,13 +459608,16 @@
       },
       "categorisation": {
         "categories": [
-          "mobile"
+          "mobile",
+          "accessories",
+          "photography",
+          "fashion"
         ],
         "brands": [],
         "official_importer": null,
         "official_importer_brand": [],
         "is_tech": true,
-        "categories_source": "description_keywords"
+        "categories_source": "zap_facet"
       },
       "policies": {
         "warranty": null,
@@ -459510,8 +459641,17 @@
         "name_zap": "סקרין מובייל (Screen-Mobile)",
         "rating": 1.0,
         "rating_count": 1,
-        "categories_main_he": [],
-        "categories_he": [],
+        "categories_main_he": [
+          "חשמל ואלקטרוניקה",
+          "מחשבים ותוכנות",
+          "מתנות ושונות"
+        ],
+        "categories_he": [
+          "תקשורת",
+          "אביזרים ועזרים",
+          "צילום",
+          "שעונים"
+        ],
         "last_seen": "2026-11-20"
       }
     }
@@ -585873,7 +586013,23 @@
       "categorisation": {
         "categories": [
           "computers",
-          "gaming"
+          "gaming",
+          "home_garden",
+          "camping_outdoor",
+          "tv_av",
+          "audio",
+          "office",
+          "sport",
+          "mobile",
+          "peripherals",
+          "accessories",
+          "kids_baby",
+          "photography",
+          "health_beauty",
+          "security",
+          "appliances",
+          "fashion",
+          "auto"
         ],
         "brands": [],
         "official_importer": null,
@@ -585903,8 +586059,39 @@
         "name_zap": "זול פור יו (Zol4U)",
         "rating": 4.93,
         "rating_count": 40,
-        "categories_main_he": [],
+        "categories_main_he": [
+          "חשמל ואלקטרוניקה",
+          "טיפוח יופי ובריאות",
+          "ילדים",
+          "לבית לגן ולמשרד",
+          "מחשבים ותוכנות",
+          "מתנות ושונות",
+          "רכב ואביזרים"
+        ],
         "categories_he": [
+          "שונות",
+          "לבית",
+          "מחנאות וטיולים",
+          "מערכות צפייה ושמע",
+          "ציוד למשרד",
+          "ספורט",
+          "תקשורת",
+          "ציוד היקפי",
+          "ציוד הקפי",
+          "אביזרים ועזרים",
+          "צעצועים ומשחקים",
+          "צילום",
+          "מכשירים לטיפוח ובריאות",
+          "מיגון וריגול",
+          "ניקיון גיהוץ וכביסה",
+          "אביזרי אופנה",
+          "אופנה ואביזרים",
+          "תקשורת מחשבים",
+          "משחקי טלוויזיה",
+          "מחשבים",
+          "כלים סניטריים",
+          "על גלגלים",
+          "אחסון",
           "תוכנות ומשחקים"
         ],
         "last_seen": "2026-11-20"
