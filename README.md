@@ -2,12 +2,29 @@
 
 Open data index of Israeli online retailers, intended as a data store backing online shopping agents (LLM-driven product search, price comparison, sourcing workflows, etc.).
 
-Source: Internet research.
+Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores; 705 have product categories (Zap's category facets cover only part of its directory).
 
 ## Files
 
-- `stores.json` — the store index.
-- `build.py` — regeneration script (pulls source index, re-translates descriptions, re-emits schema).
+- `stores-index.json` — slim index for agents (name, website, domain, Zap id/url, categories, is_tech, city, description). Load this first.
+- `stores.json` — full records (nested schema, see DATA_DICTIONARY.md).
+- `scripts/scrape_zap.py` — crawls the Zap store directory plus every main/sub-category facet into `.cache/` (stdlib only, resumable, ~1 req/s).
+- `scripts/merge.py` — merges the crawl into `stores.json`, writes `stores-index.json`.
+- `scripts/category_map.json` — Hebrew Zap category to category-vocabulary tags.
+- `build.py` — original April 2026 build (legacy; superseded by the scripts above).
+
+## Refresh (last run 2026-11-20)
+
+Needs an Israeli residential IP for zap.co.il (plain HTTP, no browser; headless browsers are rejected).
+
+```
+python3 scripts/scrape_zap.py                          # ~20 min, ~1,500 requests, writes .cache/zap_stores.json
+uv run --with deep-translator scripts/merge.py         # rewrites stores.json + stores-index.json
+```
+
+The scrape is resumable (page cache in `.cache/html/`, gitignored; delete it to force a fresh crawl). `merge.py` matches by Zap siteid, then website domain, then name; keeps hand-filled fields; flags stores no longer on Zap as `not_on_zap_2026-11`. If Google Translate rate-limits, new stores keep `descriptions.en` null; re-run merge later. Category facet lists are fetched from `GET /models/getmorefilters?dbid=245399|245408&sogname=g-stores` (the "more..." popup), not the page HTML (which shows only 7 per facet).
+
+Zap quirks: unfiltered directory pagination runs to page ~399 (14 stores/page); facet counts shown by Zap overstate what pagination returns by about 20%.
 
 ## Intended use
 
@@ -17,6 +34,7 @@ Raw URL:
 
 ```
 https://raw.githubusercontent.com/danielrosehill/Israel-Online-Stores/main/stores.json
+https://raw.githubusercontent.com/danielrosehill/Israel-Online-Stores/main/stores-index.json   (slim)
 ```
 
 ### Drop-in snippet for a Claude Code / agent skill
@@ -36,7 +54,7 @@ categorisation, policies, authorisations, agent_integration). See the
 repo's DATA_DICTIONARY.md for the full schema. Filter before recommending
 a vendor — e.g. `store_details.locations.delivers.jerusalem === true`,
 `store_details.commerce.accepts.bit === true`, or
-`store_details.categorisation.categories` includes the relevant tag.
+`store_details.categorisation.categories` includes the relevant tag (31-tag vocabulary in DATA_DICTIONARY.md; empty = unknown). Prefer `stores-index.json` for loading.
 
 Many fields are nullable and may be `null` where not yet enriched; treat
 `null` as "unknown", not "false".
