@@ -157,6 +157,8 @@ Slim derived file for agents (about 2 MB vs 15 MB). One object per store: `name,
 
 ## Notes on the 2026-11-20 refresh
 
-- Zap lists 5,584 stores; only 705 carry any category facet. The rest are uncategorised (`categories: []`, `is_tech: null`).
+- Zap lists 5,584 stores; only 705 carry any category facet. For the rest, `merge.py` tags from Hebrew keywords in the Zap description (`category_map.json` → `description_keywords`, e.g. `מחשבים` → computers, `כלי נגינה` → musical_instruments). Coverage 2026-11-20: 4,470 of 5,590 (80%). The remaining 1,120 have a city-only or generic description (`categories: []`, `is_tech: null`).
+- `categorisation.categories_source`: `zap_facet` | `description_keywords` | null.
+- Facet-tagged generalists can carry 20+ tags (a store appears under every Zap sub-category it lists in). To find specialists, prefer stores with few tags whose description names the product.
 - The same website can appear under several Zap siteids (branches/duplicates); each siteid is its own record.
 - New stores (4,760) have `date_added` 2026-11-20. Google Translate rate-limited the 2026-11-20 run, so their `descriptions.en` and `city_en` are null (Hebrew present); re-run `scripts/merge.py` later to fill them.

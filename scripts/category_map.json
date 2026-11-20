@@ -1,72 +1,542 @@
 {
-  "_note": "Hebrew Zap category -> vocabulary tags. 'sub' = db245408 (קטגוריה), 'main' = db245399 (קטגוריה ראשית). Main is used only as a fallback when a store has no mapped sub-category tags. Empty list = no tag. Edit and re-run merge.py to apply.",
-  "main": {
-    "חשמל ואלקטרוניקה": [],
-    "טיפוח יופי ובריאות": ["health_beauty"],
-    "ילדים": ["kids_baby"],
-    "לבית לגן ולמשרד": ["home_garden"],
-    "מחשבים ותוכנות": ["computers"],
-    "מתנות ושונות": ["gifts"],
-    "רכב ואביזרים": ["auto"]
-  },
-  "sub": {
-    "שונות": [],
-    "לבית": ["home_garden"],
-    "מחנאות וטיולים": ["camping_outdoor"],
-    "בריאות": ["health_beauty"],
-    "ריהוט וציוד לגן": ["furniture", "home_garden"],
-    "מערכות צפייה ושמע": ["tv_av", "audio"],
-    "ציוד למשרד": ["office"],
-    "ספורט": ["sport"],
-    "תקשורת": ["mobile"],
-    "ציוד היקפי": ["peripherals"],
-    "ציוד הקפי": ["peripherals"],
-    "כלי עבודה": ["tools"],
-    "למטבח": ["appliances", "home_garden"],
-    "ציוד למטבח": ["appliances", "home_garden"],
-    "ריהוט לבית": ["furniture"],
-    "אביזרים ועזרים": ["accessories"],
-    "צעצועים ומשחקים": ["kids_baby"],
-    "צילום": ["photography"],
-    "מתנות": ["gifts"],
-    "מכשירים לטיפוח ובריאות": ["health_beauty"],
-    "מיגון וריגול": ["security"],
-    "ניקיון גיהוץ וכביסה": ["appliances"],
-    "אביזרי אופנה": ["fashion"],
-    "טיפוח": ["health_beauty"],
-    "אופנה ואביזרים": ["fashion"],
-    "חימום וקירור הבית": ["appliances"],
-    "תינוקות ופעוטות": ["kids_baby"],
-    "עיצוב הבית": ["home_garden"],
-    "ביגוד והנעלה": ["fashion"],
-    "הלבשה והנעלה": ["fashion"],
-    "טקסטיל": ["home_garden"],
-    "תקשורת מחשבים": ["computers", "peripherals"],
-    "מוצרי הגיינה": ["health_beauty"],
-    "משחקי טלוויזיה": ["gaming"],
-    "מחשבים": ["computers"],
-    "חיות מחמד": ["pets"],
-    "כלים סניטריים": ["home_garden"],
-    "מוזיקה": ["musical_instruments", "pro_audio"],
-    "קוסמטיקה": ["health_beauty"],
-    "על גלגלים": ["auto"],
-    "שעונים": ["fashion"],
-    "איפור": ["health_beauty"],
-    "צעצועים ומשחקים לחצר": ["kids_baby", "home_garden"],
-    "אחסון": ["computers"],
-    "חומרה": ["computers"],
-    "עיסוי וספא": ["health_beauty"],
-    "סטריאו לרכב": ["auto", "audio"],
-    "ציוד אימון וכושר": ["sport"],
-    "יינות אלכוהול ועישון": ["food"],
-    "עזרה ראשונה": ["health_beauty"],
-    "תוכנות ומשחקים": ["computers", "gaming"],
-    "ספרים וקריאה": ["books_media"],
-    "בישום": ["health_beauty"],
-    "מדיות": ["books_media"],
-    "כלי רכב": ["auto"],
-    "אביזרי מין": ["other"],
-    "מבוגרים": ["other"]
-  },
-  "tech_tags": ["computers", "mobile", "peripherals", "photography", "audio", "pro_audio", "tv_av", "gaming", "power_battery", "smart_home"]
+ "_note": "Hebrew Zap category -> vocabulary tags. 'sub' = db245408 (קטגוריה), 'main' = db245399 (קטגוריה ראשית). Main is used only as a fallback when a store has no mapped sub-category tags. Empty list = no tag. Edit and re-run merge.py to apply.",
+ "main": {
+  "חשמל ואלקטרוניקה": [],
+  "טיפוח יופי ובריאות": [
+   "health_beauty"
+  ],
+  "ילדים": [
+   "kids_baby"
+  ],
+  "לבית לגן ולמשרד": [
+   "home_garden"
+  ],
+  "מחשבים ותוכנות": [
+   "computers"
+  ],
+  "מתנות ושונות": [
+   "gifts"
+  ],
+  "רכב ואביזרים": [
+   "auto"
+  ]
+ },
+ "sub": {
+  "שונות": [],
+  "לבית": [
+   "home_garden"
+  ],
+  "מחנאות וטיולים": [
+   "camping_outdoor"
+  ],
+  "בריאות": [
+   "health_beauty"
+  ],
+  "ריהוט וציוד לגן": [
+   "furniture",
+   "home_garden"
+  ],
+  "מערכות צפייה ושמע": [
+   "tv_av",
+   "audio"
+  ],
+  "ציוד למשרד": [
+   "office"
+  ],
+  "ספורט": [
+   "sport"
+  ],
+  "תקשורת": [
+   "mobile"
+  ],
+  "ציוד היקפי": [
+   "peripherals"
+  ],
+  "ציוד הקפי": [
+   "peripherals"
+  ],
+  "כלי עבודה": [
+   "tools"
+  ],
+  "למטבח": [
+   "appliances",
+   "home_garden"
+  ],
+  "ציוד למטבח": [
+   "appliances",
+   "home_garden"
+  ],
+  "ריהוט לבית": [
+   "furniture"
+  ],
+  "אביזרים ועזרים": [
+   "accessories"
+  ],
+  "צעצועים ומשחקים": [
+   "kids_baby"
+  ],
+  "צילום": [
+   "photography"
+  ],
+  "מתנות": [
+   "gifts"
+  ],
+  "מכשירים לטיפוח ובריאות": [
+   "health_beauty"
+  ],
+  "מיגון וריגול": [
+   "security"
+  ],
+  "ניקיון גיהוץ וכביסה": [
+   "appliances"
+  ],
+  "אביזרי אופנה": [
+   "fashion"
+  ],
+  "טיפוח": [
+   "health_beauty"
+  ],
+  "אופנה ואביזרים": [
+   "fashion"
+  ],
+  "חימום וקירור הבית": [
+   "appliances"
+  ],
+  "תינוקות ופעוטות": [
+   "kids_baby"
+  ],
+  "עיצוב הבית": [
+   "home_garden"
+  ],
+  "ביגוד והנעלה": [
+   "fashion"
+  ],
+  "הלבשה והנעלה": [
+   "fashion"
+  ],
+  "טקסטיל": [
+   "home_garden"
+  ],
+  "תקשורת מחשבים": [
+   "computers",
+   "peripherals"
+  ],
+  "מוצרי הגיינה": [
+   "health_beauty"
+  ],
+  "משחקי טלוויזיה": [
+   "gaming"
+  ],
+  "מחשבים": [
+   "computers"
+  ],
+  "חיות מחמד": [
+   "pets"
+  ],
+  "כלים סניטריים": [
+   "home_garden"
+  ],
+  "מוזיקה": [
+   "musical_instruments",
+   "pro_audio"
+  ],
+  "קוסמטיקה": [
+   "health_beauty"
+  ],
+  "על גלגלים": [
+   "auto"
+  ],
+  "שעונים": [
+   "fashion"
+  ],
+  "איפור": [
+   "health_beauty"
+  ],
+  "צעצועים ומשחקים לחצר": [
+   "kids_baby",
+   "home_garden"
+  ],
+  "אחסון": [
+   "computers"
+  ],
+  "חומרה": [
+   "computers"
+  ],
+  "עיסוי וספא": [
+   "health_beauty"
+  ],
+  "סטריאו לרכב": [
+   "auto",
+   "audio"
+  ],
+  "ציוד אימון וכושר": [
+   "sport"
+  ],
+  "יינות אלכוהול ועישון": [
+   "food"
+  ],
+  "עזרה ראשונה": [
+   "health_beauty"
+  ],
+  "תוכנות ומשחקים": [
+   "computers",
+   "gaming"
+  ],
+  "ספרים וקריאה": [
+   "books_media"
+  ],
+  "בישום": [
+   "health_beauty"
+  ],
+  "מדיות": [
+   "books_media"
+  ],
+  "כלי רכב": [
+   "auto"
+  ],
+  "אביזרי מין": [
+   "other"
+  ],
+  "מבוגרים": [
+   "other"
+  ]
+ },
+ "tech_tags": [
+  "computers",
+  "mobile",
+  "peripherals",
+  "photography",
+  "audio",
+  "pro_audio",
+  "tv_av",
+  "gaming",
+  "power_battery",
+  "smart_home"
+ ],
+ "description_keywords": {
+  "_note": "Fallback when a store has no Zap facet category: Hebrew substring in the Zap description -> tags. Checked in order; all matches add.",
+  "מחשב": [
+   "computers"
+  ],
+  "ציוד היקפי": [
+   "peripherals"
+  ],
+  "ציוד הקפי": [
+   "peripherals"
+  ],
+  "מדפסות": [
+   "peripherals",
+   "office"
+  ],
+  "טונר": [
+   "office"
+  ],
+  "סלולאר": [
+   "mobile"
+  ],
+  "סלולר": [
+   "mobile"
+  ],
+  "סמארטפונ": [
+   "mobile"
+  ],
+  "טלפונים": [
+   "mobile"
+  ],
+  "מוצרי חשמל": [
+   "appliances"
+  ],
+  "מכשירי חשמל": [
+   "appliances"
+  ],
+  "מזגנ": [
+   "appliances"
+  ],
+  "מכונות קפה": [
+   "appliances"
+  ],
+  "מוצרי קפה": [
+   "food"
+  ],
+  "אלקטרוניקה": [
+   "accessories"
+  ],
+  "גאדג'ט": [
+   "gifts",
+   "accessories"
+  ],
+  "מחשוב": [
+   "computers"
+  ],
+  "קונסול": [
+   "gaming"
+  ],
+  "משחקי מחשב": [
+   "gaming"
+  ],
+  "גיימינג": [
+   "gaming"
+  ],
+  "אודיו": [
+   "audio"
+  ],
+  "סטריאו": [
+   "audio"
+  ],
+  "קולנוע ביתי": [
+   "tv_av"
+  ],
+  "טלוויזי": [
+   "tv_av"
+  ],
+  "טלויזי": [
+   "tv_av"
+  ],
+  "כלי נגינה": [
+   "musical_instruments"
+  ],
+  "אולפן": [
+   "pro_audio"
+  ],
+  "הגברה": [
+   "pro_audio"
+  ],
+  "צילום": [
+   "photography"
+  ],
+  "מצלמות אבטחה": [
+   "security"
+  ],
+  "מערכות אבטחה": [
+   "security"
+  ],
+  "אבטחה": [
+   "security"
+  ],
+  "סוללות": [
+   "power_battery"
+  ],
+  "מצברים": [
+   "power_battery",
+   "auto"
+  ],
+  "אל פסק": [
+   "power_battery"
+  ],
+  "תאורה": [
+   "lighting"
+  ],
+  "פנס": [
+   "lighting"
+  ],
+  "בית חכם": [
+   "smart_home"
+  ],
+  "כלי עבודה": [
+   "tools"
+  ],
+  "אספקה טכנית": [
+   "tools"
+  ],
+  "חומרי בניין": [
+   "tools"
+  ],
+  "חלקי חילוף": [
+   "spare_parts"
+  ],
+  "ציוד משרדי": [
+   "office"
+  ],
+  "מיכון משרדי": [
+   "office"
+  ],
+  "ריהוט משרדי": [
+   "office",
+   "furniture"
+  ],
+  "ריהוט": [
+   "furniture"
+  ],
+  "רהיט": [
+   "furniture"
+  ],
+  "מזרנ": [
+   "furniture"
+  ],
+  "פופים": [
+   "furniture"
+  ],
+  "ריהוט גן": [
+   "home_garden"
+  ],
+  "לבית ולגן": [
+   "home_garden"
+  ],
+  "גינון": [
+   "home_garden"
+  ],
+  "כלי בית": [
+   "home_garden"
+  ],
+  "מטבח": [
+   "home_garden"
+  ],
+  "מקלחונ": [
+   "home_garden"
+  ],
+  "סניטרי": [
+   "home_garden"
+  ],
+  "טקסטיל": [
+   "home_garden"
+  ],
+  "מדבקות קיר": [
+   "home_garden"
+  ],
+  "ארונות": [
+   "furniture"
+  ],
+  "תינוק": [
+   "kids_baby"
+  ],
+  "ילדים": [
+   "kids_baby"
+  ],
+  "צעצוע": [
+   "kids_baby"
+  ],
+  "חיות מחמד": [
+   "pets"
+  ],
+  "בעלי חיים": [
+   "pets"
+  ],
+  "בע\"ח": [
+   "pets"
+  ],
+  "ספורט": [
+   "sport"
+  ],
+  "אופניים": [
+   "sport"
+  ],
+  "מחנאות": [
+   "camping_outdoor"
+  ],
+  "טיולים": [
+   "camping_outdoor"
+  ],
+  "טקטי": [
+   "tactical"
+  ],
+  "צמיגים": [
+   "auto"
+  ],
+  "לרכב": [
+   "auto"
+  ],
+  "רכב": [
+   "auto"
+  ],
+  "אופנוע": [
+   "auto"
+  ],
+  "תכשיט": [
+   "fashion"
+  ],
+  "שעונ": [
+   "fashion"
+  ],
+  "תיקים": [
+   "fashion"
+  ],
+  "מזוודות": [
+   "fashion"
+  ],
+  "ארנקים": [
+   "fashion"
+  ],
+  "ביגוד": [
+   "fashion"
+  ],
+  "הנעלה": [
+   "fashion"
+  ],
+  "נעליים": [
+   "fashion"
+  ],
+  "בשמים": [
+   "health_beauty"
+  ],
+  "קוסמטיקה": [
+   "health_beauty"
+  ],
+  "טיפוח": [
+   "health_beauty"
+  ],
+  "שיער": [
+   "health_beauty"
+  ],
+  "תוספי": [
+   "health_beauty"
+  ],
+  "בית מרקחת": [
+   "health_beauty"
+  ],
+  "בריאות": [
+   "health_beauty"
+  ],
+  "מוצרי טבע": [
+   "health_beauty"
+  ],
+  "מתנות": [
+   "gifts"
+  ],
+  "פרחים": [
+   "gifts"
+  ],
+  "יודאיקה": [
+   "gifts"
+  ],
+  "תשמישי קדושה": [
+   "gifts"
+  ],
+  "מזון": [
+   "food"
+  ],
+  "יין": [
+   "food"
+  ],
+  "ספרים": [
+   "books_media"
+  ],
+  "סיגריות אלקטרוניות": [
+   "other"
+  ],
+  "למבוגרים בלבד": [
+   "other"
+  ],
+  "קניון": [
+   "other"
+  ],
+  "דיו וטונר": [
+   "office"
+  ],
+  "ראשי דיו": [
+   "office"
+  ],
+  "מחסניות": [
+   "office"
+  ],
+  "חשמל ואלקטרוניקה": [
+   "appliances",
+   "accessories"
+  ],
+  "מערכות שמע": [
+   "audio"
+  ],
+  "אופניים חשמליים": [
+   "sport"
+  ]
+ }
 }

@@ -84,6 +84,15 @@ def map_categories(main_he, sub_he):
     return seen
 
 
+def description_tags(text):
+    """Fallback tags from Hebrew keywords in the Zap description (category_map.json description_keywords)."""
+    tags = []
+    for k, v in CMAP.get("description_keywords", {}).items():
+        if not k.startswith("_") and k in (text or ""):
+            tags += v
+    return list(dict.fromkeys(tags))
+
+
 def is_tech(tags):
     if not tags:
         return None
@@ -185,6 +194,10 @@ for sid, s in matched.items():
         d["descriptions"]["he"] = z["description_he"]
     tags = map_categories(main_he, sub_he)
     cat = d["categorisation"]
+    cat["categories_source"] = "zap_facet" if tags else None
+    if not tags:
+        tags = description_tags(d["descriptions"].get("he") or z["description_he"])
+        cat["categories_source"] = "description_keywords" if tags else None
     # categories are generated from Zap; keep any tag already present (hand-filled) and add mapped ones
     cat["categories"] = list(dict.fromkeys((cat.get("categories") or []) + tags))
     cat["is_tech"] = is_tech(cat["categories"])

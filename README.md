@@ -2,7 +2,7 @@
 
 Open data index of Israeli online retailers, intended as a data store backing online shopping agents (LLM-driven product search, price comparison, sourcing workflows, etc.).
 
-Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores; 705 have product categories (Zap's category facets cover only part of its directory).
+Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores; 4,470 (80%) have product categories: 705 from Zap's own category facets, the rest from Hebrew keywords in Zap's store description (`scripts/category_map.json` → `description_keywords`). `categorisation.categories_source` says which.
 
 ## Files
 
