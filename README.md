@@ -73,3 +73,8 @@ No affiliation with any listed retailer is implied.
 ## Licence
 
 Data released for public use. Contributions and corrections welcome via PR or issue.
+
+## History
+
+- 2026-04-20: first import, 830 stores, from a TypeScript scrape of the Zap directory (private repo Zap-Scraper).
+- 2026-11-20: refreshed with `scripts/scrape_zap.py` + `scripts/merge.py` (5,590 stores, Zap siteids, category facets + description keywords). Zap-Scraper deleted the same day; these scripts replace it.
