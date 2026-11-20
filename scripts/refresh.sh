@@ -9,7 +9,7 @@ PUSH=1; [[ "${1:-}" == "--no-push" ]] && PUSH=0
 git pull -q --ff-only
 prev=$(python3 -c 'import json;print(sum(1 for s in json.load(open("stores-index.json")) if not s.get("status")))')
 
-rm -rf .cache/html                      # force a fresh crawl (the page cache is only for resuming)
+mkdir -p .cache; rm -rf .cache/html     # force a fresh crawl (the page cache is only for resuming)
 python3 scripts/scrape_zap.py > .cache/run.log 2>&1 || { echo "scrape failed, see .cache/run.log"; tail -5 .cache/run.log; exit 1; }
 
 # Guard: a blocked or truncated crawl would mark most stores as gone. Require >= 90% of last month's live stores.
