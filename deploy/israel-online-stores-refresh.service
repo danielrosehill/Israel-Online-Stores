@@ -1,0 +1,10 @@
+[Unit]
+Description=Israel-Online-Stores: monthly Zap store-directory refresh (repo danielrosehill/Israel-Online-Stores, deploy/)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/bash %h/repos/github/shopping/Israel-Online-Stores/scripts/refresh.sh
+TimeoutStartSec=2h
+Nice=10

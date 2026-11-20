@@ -1,0 +1,10 @@
+[Unit]
+Description=Israel-Online-Stores: monthly Zap refresh (1st of the month, 04:30)
+
+[Timer]
+OnCalendar=*-*-01 04:30
+RandomizedDelaySec=1h
+Persistent=true
+
+[Install]
+WantedBy=timers.target

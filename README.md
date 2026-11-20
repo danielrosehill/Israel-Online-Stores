@@ -2,7 +2,7 @@
 
 Open data index of Israeli online retailers, intended as a data store backing online shopping agents (LLM-driven product search, price comparison, sourcing workflows, etc.).
 
-Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores, every one with at least one category: 705 from Zap's own category facets, about 3,600 from Hebrew keywords in Zap's store description (`scripts/category_map.json` → `description_keywords`), and about 1,280 with a city-only or vague description tagged `other` for now. `categorisation.categories_source` says which (`zap_facet` | `description_keywords` | `default_other`). Refreshed monthly (see below).
+Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores, every one with at least one category: 705 from Zap's own category facets, about 3,600 from Hebrew keywords in Zap's store description (`scripts/category_map.json` → `description_keywords`), and about 1,280 with a city-only or vague description tagged `other` for now. `categorisation.categories_source` says which (`zap_facet` | `description_keywords` | `default_other`). Refreshed monthly on a schedule: see [`deploy/README.md`](deploy/README.md).
 
 ## Files
 
