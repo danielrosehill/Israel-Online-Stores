@@ -2,7 +2,7 @@
 
 Open data index of Israeli online retailers, intended as a data store backing online shopping agents (LLM-driven product search, price comparison, sourcing workflows, etc.).
 
-Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores; 4,470 (80%) have product categories: 705 from Zap's own category facets, the rest from Hebrew keywords in Zap's store description (`scripts/category_map.json` → `description_keywords`). `categorisation.categories_source` says which.
+Source: Zap (zap.co.il) store directory, refreshed 2026-11-20, plus manual research. 5,590 stores, every one with at least one category: 705 from Zap's own category facets, about 3,600 from Hebrew keywords in Zap's store description (`scripts/category_map.json` → `description_keywords`), and about 1,280 with a city-only or vague description tagged `other` for now. `categorisation.categories_source` says which (`zap_facet` | `description_keywords` | `default_other`). Refreshed monthly (see below).
 
 ## Files
 
@@ -19,7 +19,7 @@ Needs an Israeli residential IP for zap.co.il (plain HTTP, no browser; headless 
 
 ```
 python3 scripts/scrape_zap.py                          # ~20 min, ~1,500 requests, writes .cache/zap_stores.json
-uv run --with deep-translator scripts/merge.py         # rewrites stores.json + stores-index.json
+python3 scripts/merge.py                              # rewrites stores.json + stores-index.json
 ```
 
 The scrape is resumable (page cache in `.cache/html/`, gitignored; delete it to force a fresh crawl). `merge.py` matches by Zap siteid, then website domain, then name; keeps hand-filled fields; flags stores no longer on Zap as `not_on_zap_2026-11`. If Google Translate rate-limits, new stores keep `descriptions.en` null; re-run merge later. Category facet lists are fetched from `GET /models/getmorefilters?dbid=245399|245408&sogname=g-stores` (the "more..." popup), not the page HTML (which shows only 7 per facet).

@@ -27,7 +27,7 @@ All enrichment fields default to `null` (scalar) or `[]` (array) when unknown. *
 | Field | Type | Notes |
 |---|---|---|
 | `he` | string | Original Hebrew description (category + often city). |
-| `en` | string | Machine-translated English (Google Translate). Not human-reviewed. |
+| `en` | string \| null | Machine-translated English for the original 830 stores only. Translation was dropped 2026-11-20 (not maintained); stores added since have null. Use `he`. |
 | `personal` | string \| null | Curator's own description; overrides `he`/`en` where set. |
 | `notes_he` | string \| null | Curator's private notes, Hebrew. |
 | `notes_en` | string \| null | Curator's private notes, English. |
@@ -61,7 +61,7 @@ All enrichment fields default to `null` (scalar) or `[]` (array) when unknown. *
 | Field | Type | Notes |
 |---|---|---|
 | `city_he` | string \| null | Branch city, Hebrew. |
-| `city_en` | string \| null | Branch city, English (machine-translated). |
+| `city_en` | string \| null | Branch city, English; original 830 stores only (see `descriptions.en`). |
 | `address` | string \| null | Full street address if known. |
 
 ## `store_details.chain`
@@ -157,8 +157,8 @@ Slim derived file for agents (about 2 MB vs 15 MB). One object per store: `name,
 
 ## Notes on the 2026-11-20 refresh
 
-- Zap lists 5,584 stores; only 705 carry any category facet. For the rest, `merge.py` tags from Hebrew keywords in the Zap description (`category_map.json` → `description_keywords`, e.g. `מחשבים` → computers, `כלי נגינה` → musical_instruments). Coverage 2026-11-20: 4,470 of 5,590 (80%). The remaining 1,120 have a city-only or generic description (`categories: []`, `is_tech: null`).
+- Zap lists 5,584 stores; only 705 carry any category facet. For the rest, `merge.py` tags from Hebrew keywords in the Zap description (`category_map.json` → `description_keywords`). Anything still untagged (city-only or vague description, about 1,280) gets `["other"]` with `categories_source: default_other`; a later run replaces the placeholder as soon as a real tag applies.
 - `categorisation.categories_source`: `zap_facet` | `description_keywords` | null.
 - Facet-tagged generalists can carry 20+ tags (a store appears under every Zap sub-category it lists in). To find specialists, prefer stores with few tags whose description names the product.
 - The same website can appear under several Zap siteids (branches/duplicates); each siteid is its own record.
-- New stores (4,760) have `date_added` 2026-11-20. Google Translate rate-limited the 2026-11-20 run, so their `descriptions.en` and `city_en` are null (Hebrew present); re-run `scripts/merge.py` later to fill them.
+- New stores (4,760) have `date_added` 2026-11-20 and no English fields: translation is no longer run.

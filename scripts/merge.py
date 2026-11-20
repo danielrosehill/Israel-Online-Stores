@@ -175,7 +175,8 @@ def translate_pending():
     print(f"translated {len(en_map)}/{len(texts)} descriptions")
 
 
-translate_pending()
+# English translation dropped 2026-11-20: not worth maintaining (Google Translate rate-limits; agents read Hebrew).
+# translate_pending() is kept for manual use only.
 
 # ---- apply Zap data ----
 zap_by_sid = {z["siteid"]: z for z in SRC["stores"]}
@@ -194,12 +195,17 @@ for sid, s in matched.items():
         d["descriptions"]["he"] = z["description_he"]
     tags = map_categories(main_he, sub_he)
     cat = d["categorisation"]
+    if cat.get("categories_source") == "default_other":
+        cat["categories"] = []          # re-derive: a placeholder "other" must not block real tags
     cat["categories_source"] = "zap_facet" if tags else None
     if not tags:
         tags = description_tags(d["descriptions"].get("he") or z["description_he"])
         cat["categories_source"] = "description_keywords" if tags else None
     # categories are generated from Zap; keep any tag already present (hand-filled) and add mapped ones
     cat["categories"] = list(dict.fromkeys((cat.get("categories") or []) + tags))
+    if not cat["categories"]:
+        cat["categories"] = ["other"]   # uncategorised (city-only or vague description), by decision 2026-11-20
+        cat["categories_source"] = "default_other"
     cat["is_tech"] = is_tech(cat["categories"])
 
 matched_ids = {id(s) for s in matched.values()}
